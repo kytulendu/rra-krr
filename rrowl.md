@@ -1,4 +1,5 @@
-**Rrowl-Telepath**
+Rrowl-Telepath
+==============
 
 This was still a WIP :P
 
@@ -43,22 +44,27 @@ This was still a WIP :P
 - Cinder-Tail, biological mother/mother
 - Used to have 14 temporally female mates which result to 40 daughter/sons from telepath breeding program before The Hidden Temple Incident
 
+
 **Equipment:**
+
+    TODO:
+    - clothing style are subject to change in future
+    - change the name and concept of Bloody-Claw's energy source
 
 - A traditional Rra-krr short sword/dagger (this kind of sword is often use in ceremony, it’s a status of Rra-krr’s adult hood and also function as a weapon).
 - A utility belt with tools, small pouchs, small flasks of Nepeta-Leaves extract (aka. Rra-krr's mint tea) attached to the belt.
 - A Rra-krr design plasma pistol.
 - His casual/hunting clothing consist of a black or dark brown pants with two belts made from leather, one is utility belt that worn around his shoulder and another worn around his waist, the waist belt is attached to his sword holder and scabbard at the left, his plasma pistol holsters attracted at the right.
 He was usually with minimal clothing except when it was needed or at special occasion.
-- He have his own space ship and a small crew of his own (although he isn’t the captain), the ship named Bloody-Claw, she was a very old Prowling Hunter class warship (comparable to human’s battle cruiser star ship class, but with a cloaking device), repaired, redecorate interior, retrofitted with many current  technology and modified energy source from outdated and inferior fusion reactor to three redundant Zero-Point-Module, commissioned and gifted to him by The Patriarch and Zaar-Skarrowl, tho it still have many outdated but upgraded systems. The ship have no heavy weapons system due to their weapon regulation law. (by “heavy weapon system” in Rra-krr term is any single weapon system that powerful enough to destroy a continent on a planet in one shot).
+- He have his own space ship and a small crew of his own (although he isn’t the captain), the ship named Bloody-Claw, she was a very old Prowling Hunter class warship (comparable to human’s battle cruiser star ship class, but with a cloaking device), repaired, redecorate interior, retrofitted with many current technology and modified energy source from outdated and inferior fusion reactor to three redundant Zero-Point-Module, commissioned and gifted to him by The Patriarch and Zaar-Skarrowl, tho it still have many outdated but upgraded systems. The ship have no heavy weapons system due to their weapon regulation law. (by “heavy weapon system” in Rra-krr term is any single weapon system that powerful enough to destroy a continent on a planet in one shot).
 Due to upgraded and modified systems and the ship equipped with an Advanced Interface Chair (a brain to computer interface device, standard among Rra-krr space craft, usually use by telepath to pilot the ship in hyperspace), The Bloody-Claw can be pilot by 1 pilot by using the chair. Although the ship require at lest 3 pilot, with one telepath using the chair to aid the navigation systems when travel in hyperspace for optimal operation.
 He also use the ship as his den.
 
 **Power/Abilities:**
 
-Due to him being a Rra-krr telepath, he have the usual powers/abilities of those telepath, like telepathy, limited precognition etc. but after the incident with the remain of oddly looking creature during an archaeological trip in The Hidden Temple, He was transformed in to… something..., which give him great power and many abilities, for example, the ability to change his form between 3 forms at will or phase through matter or traverse other dimension/other universe or extra sensory that enable him to "see" the soul of any being.
+Due to him being a Rra-krr telepath, he have the usual powers/abilities of those telepath, like telepathy, limited precognition etc. but after the incident with the remain of oddly looking creature during an archaeological trip in The Hidden Temple, He was transformed in to... something..., which give him great power and many abilities, for example, the ability to change his form between 3 forms at will or phase through matter or traverse other dimension/other universe or extra sensory that enable him to "see" the soul of any being.
 
-While the power he received was superb and cool, it a bit more like a curse as his default form was now that of eldritch monster thingy that make him difficult with others (as in his universe and probably other too, this form is beyond mortal being to comprehend, or more likely it did some kind of mind trick to the one seeing him, so anyone looking at him will probably gone nut), along with the hunger for intelligent being fresh, blood and... soul? that still linger in his mind, even when he was in Rra-krr form.
+While the power he received was superb and cool, it a bit more like a curse as his default form was now that of eldritch monster thingy that make him difficult with others, as in his universe and probably other too, this form is beyond mortal being to comprehend, or more likely it did some kind of mind trick to the one seeing him, so anyone looking at him will probably gone nut. along with the hunger for intelligent being fresh, blood and... soul? that still linger in his mind, even when he was in Rra-krr form.
 
 He also have some kind of precognition abilities as sometimes he have a vision of very important things that will happen in near future in his dreams, this greatly enhanced to be more accurate after The Hidden Temple Incident.
 
@@ -82,17 +88,23 @@ In range longer than 2,000 km, he have limited telepathy, like sense psychic pre
 
 **Feral form**
 
-This form is a much more family friendly version of his True form. In this form, he bear resemblance to a large black furred saber-toothed lion-like creature with glowing red eyes, lion like tail and a pair of horns and a pair of ears, that walk on four legs like Earth's big cats, with usual height similar size to Horse on Earth (about 160 cm, measure from shoulder to feet when on all four) or varies size depending in circumstance.
+This form is a much more family friendly version of his True form. In this form, he bear resemblance to a large black furred saber-toothed lion-like creature with glowing red eyes, lion like tail and a pair of horns and a pair of ears, that walk on four legs like Earth's big cats, with usual height similar size to Horse on Earth (about 160 cm, measure from shoulder to feet) or varies size depending in circumstance.
 
-This form also "accidentally" look like those depicted in Rra-krr's art as a representation of The Fanged God, a Rra-krr's deity. And due to this, he rarely shape-shift into this form, as it might cause some chaos among the religious Rra-krr and other alien race if being seen.
+This form also "accidentally" look like those depicted in Rra-krr's art as a representation of The Fanged God, a Rra-krr's deity. And due to this, he rarely shape-shift into this form, as it might cause some chaos among the religious Rra-krr if being seen.
 
-In this form, he have enhance strength, speed and endurance, able to do all telepath things without taking Nepeta-Leaves extract, even better, his telepathic ability is greatly improve, surpassed the most powerful telepathic creature in the Known Space (and possibly beyond) and given him access to various powers he received from the hidden temple incident. Such as extra sensory that enable him to "see" the soul of any being or ability to traverse other dimension/other universe. Although the abilities is a lots less powerful and require more energy than when he was in true form.
+In this form, he have enhance strength, speed and endurance, able to do all telepath things without taking Nepeta-Leaves extract, even better, his telepathic ability is greatly improve, surpassed the most powerful telepathic creature in the Known Space (and possibly beyond) and given him access to various powers he received from the hidden temple incident. Such as extra sensory that enable him to "see" the soul of any being or ability to traverse other dimension/other universe. Although the abilities is a lots less powerful than when he was in true form.
 
 **True form**
 
-The last one is true form, which is what he was turned into in the hidden temple incident. In this form, which made entirely out of unknown energy, he appear as some kind of terrifying (for some) eldritch big cat monster thingy that looks like the result of combining Rra-krr's bones and carcass with woods. The head was looks like a saber-tooth cat skull made of wood... or bone? with   strange eye like symbol craved on the forehead, two pair of horns (which kinda looks like Charr's skull), black fluffy mane, red glowing orbs for eyes in empty eyes socket and long barbed pink tongue. The body was covered with black fluffy fur, with a lion-like tail. He can stood on 2 legs or on all four in this form.
+    TODO:finialize this
 
-This form give him the access to the power he have with out any restriction. As he have no ideas how to use most of the power he have properly, but that will improve as time passed...
+The last one is true form, which is what he was turned into after the hidden temple incident.
+
+In this form, he appear as some kind of terrifying (for some) eldritch big cat monster thingy that looks like the result of combining Rra-krr's bones and carcass with woods and some unidentifiable animal bones. The head was looks like a saber-tooth cat skull made of wood... or bone? with strange eye like symbol craved on the forehead, red glowing orbs for eyes in empty eyes socket, two pair of horns (which kinda looks like Charr's skull), long black fluffy mane and long barbed tongue. The body was covered with black fur. The tail is lion-like. With usual height the same as Feral form (on all four). He can stood on 2 legs or on all four in this form.
+
+This form give him the access to the power he have in Feral form with out any restriction, with addition like the power to possess and take total control of a space ship then move entire ship to other dimension/other universe.
+
+As he have no ideas how to use most of the power he have properly, but that will improve as time passed...
 
 **History:**
 
@@ -115,6 +127,8 @@ On the conclusion of the Rra-krr’s geneticist and the scientists that study Ci
 This support another theory that modern Rra-krr are uplifted from prehistoric Rra-krr, a primitive saber-tooth lion-like plains hunter who able to stood upright on two legs, use tools, communicate using simple form of language in series of growl (Old Rra-krr tongue) and have precursor to writing system in a form of claw marks on the tree. They also theorize that he might be the missing link between ancient and modern Rra-krr due to similar DNA.
 
 **The Man Rra-krr War and The Slaver Incident**
+
+    TODO:maybe do a major change on this section?
 
 In the year 15021 or Earth's year, 2329, The Rra-krr and The Human have accidentally make first contact with the Rra-krr scout ship crew near the edge of Alpha Centauri star system. At first they think this first contact will went smoothly as the Rra-krr have done it many times. But the Human are much more difference than any alien they have know of, the first contact ended badly due to some misunderstanding on both side.
 
@@ -147,36 +161,34 @@ After he have recovered, he was stationed onboard his ship, The Bloody-Claw, as 
 
 **The Hidden Temple Incident**
 
-Lord of the Forest, also known as Lord of the Savannah in majority of Rra-krr-Home, was a lesser god who guard The Fanged God’s hunting ground, and also lead the soul of who deceased in the hunting ground to the under world, and punish those who over hunt or destroy The Fanged God’s hunting ground.
+Lord of the Forest, also known as Lord of the Savannah in majority of Rra-krr-Home, was a god who guard The Fanged God’s hunting ground and punish those who over hunt or destroy the hunting ground by eating them alive and eat their soul afterwards, as well as lead the soul of those who deceased in the hunting ground to the under world.
 
-He is often depicted as black furred Rra-krr with horns and red eyes. His hands often have bow and arrow or a spear as a weapon...
+He is depicted as black furred Rra-krr with horns and red eyes. His hands often have bow and arrow or a spear as a weapon.
 
-For many Rra-krr, he was also the god of the hunt, as they believed that The Fanged God’s hunting ground are the hunting reserve or the untamed wild, which covering the area more than half of Rra-krr home world land. The Rra-krr hunters will often pray to him for permission to enter the hunting ground or for a good fortune, and some times, leave an offering on a make shift altar in form of an entire head or a skull of their prey, complete with some wild flowers, herbs and burning incense before they leave the hunting ground after a successful hunt...
+For many Rra-krr clan, he was also the god of the hunt, as they believed that The Fanged God’s hunting ground are the hunting reserve or the untamed wild, which covering the area more than half of Rra-krr home world land. The Rra-krr hunters will often pray to him for permission to enter the hunting ground or for a good hunt, and some times, leave an offering on a make shift altar in form of an entire head or a skull of their prey, complete with some wild flowers, herbs and burning incense before they leave the hunting ground after a successful hunt.
 
-By a recently discovered record of one of the oldest Rra-krr clan on Rra-krr-Home, that survived the name less Patriarch’s order to destroy many old records, artifacts, books, scrolls or historical site during his short reign in the early age of the Rra-krr civilization, some Rra-krr lore keeper theorize that Lord of the Forest or Lord of the Savannah was the The Fanged God in disguise. This cause intense debate among some Rra-krr lore keeper and the religious Rra-krr that in some instance was resolved in a duel in the arena...
+From a recently discovered record of one of the oldest Rra-krr clan on Rra-krr-Home, that survived the name less Patriarch’s order to destroy many old records, artifacts, books, scrolls or historical site during his short reign in the early age of the Rra-krr civilization, some Rra-krr lore keeper theorize that Lord of the Forest or Lord of the Savannah was the The Fanged God in disguise. This cause intense debate among some Rra-krr lore keeper that in some instance was resolved in a duel in the arena...
 
     - Excerpt from “Rra-krr’s Mythology” by Alexander O'Connell, 2366 first edition.
 
-While his ship travel back to Shrres from the second voyage, he have a strange vision of hidden room below where his sire found his mother...
+    TODO:write discovery of the hidden temple.
 
-...write discovery of the hidden temple. 
+While his ship travel back to Shrres from the second voyage, he have a strange vision of hidden room below where his sire found his mother...
 
 ...incident in the hidden temple on Shrres, he have received the terrible power from the remain of oddly looking feline thingy during an archaeological trip in the hidden temple.
 
-
-
 **Notes:**
 
-* He doesn’t use his sword as weapon much, since he prefer using guns and his fangs and claws for combat.
-* He walk on two legs, but when he run, he often goes on all four for maximum speed.
-* His behavior was quite aggressive and animalistic by nature, due to his mind was of those Ancient Rra-krr.
-* He was a really nice big cat guy, as a big cat can be :P
-* And yes, he do bite! so, be careful.
-* The looks of his “true” form was heavy inspired by Elias Ainsworth from Ancient Magus Bride by Kore Yamazaki, various art from abz-j-harding (https://www.deviantart.com/abz-j-harding), Sammael the Desolate One from Hell Boy (2004) movie and Kul Tiras Druid forms from World of Warcraft.
-* Smilodon/Rra-krr is a not so generic space cat, they are inspired mostly by the [Kzinti](https://en.wikipedia.org/wiki/Kzin) from Larry Niven’s Known Space series and [Charr](https://wiki.guildwars2.com/wiki/Charr) from Guild Wars 2 by ArenaNet. Some words of Rra-krr language are shamelessly borrow from Kzints'utng (Kzinti language).
-* The Ancient are very advanced race who have a galaxy wide empire. They mysteriously disappear around 100,000-300,000 years ago and leave their legacy across the galaxy, such as knowledge base puzzle that given to two of their up-lifted race (as know of to date), ruins of their civilization, many technology and artifact that still working to this date. Which I also ~~steal~~ borrow the idea from Star Gate... :P
-* Like Felidae, their distance relative on Earth, the Rra-krr have about 3 or 4 times superior sense of smell than human, this further supplemented by the presence of vomeronasal organ in the roof of their mouth. The Rra-krr are partially nocturnal. They have excellent night vision as their eyes have Tapetum lucidum that reflect light back through the retina, which give their eyes a distinctive shine. As a result, their eyes is about 6 times more light sensitive than Human. Their eyes have more rod cells than cone cells and could see in near total darkness as very rough shape in shade of gray, this result they have weird color vision (see as kind of desaturated version of image). The Rra-krr can see in visible light, near infrared (up to 800 nm) and UVA (315-400 nm) spectrum. Their eyes also have Nictitating membrane. Their ears can hear the sound as human do and up to ultrasonic range. The Rra-krr have 3 fingers with opposable thumb and their claws are also retractable. Their tongue are also covered with tiny barbs, this also including their male sexual organ if you are curious.
-* The Rra-krr have low tolerance in many type of Earth’s drugs - such as some type of antibiotics like acetaminophen (Paracetamol), some type of sedative and some food that eatable by Human - such as chocolate, plant species in the Allium genius - onions, scallion, shallot and garlic can be poisonous for them if ingest in large amount.
-* Unlike the Human, who use base-10 number system (numbers from 0-9), The Rra-krr use base-8 number system (numbers from 0-7).
-* A day in Rra-krr homeworld is about 1 hours longer than earth’s day, a year in Rra-krr is about 427 days compared to earth’s year.
-* Yes, that Nepeta-Leaves extract or Rra-krr’s mint tea is exactly a catnip delivered product.
+- He doesn’t use his sword as weapon much, since he prefer using guns and his fangs and claws for combat.
+- He walk on two legs, but when he run, he often goes on all four for maximum speed.
+- His behavior was quite aggressive and animalistic by nature, due to his mind was of those Ancient Rra-krr.
+- He was a really nice big cat guy, as a big cat can be :P
+- And yes, he do bite! so, be careful.
+- The looks of his “true” form was heavy inspired by Elias Ainsworth from Ancient Magus Bride by Kore Yamazaki, various art from abz-j-harding (https://www.deviantart.com/abz-j-harding), Sammael the Desolate One from Hell Boy (2004) movie and Kul Tiras Druid forms from World of Warcraft.
+- Smilodon/Rra-krr is a not so generic space cat, they are inspired mostly by the [Kzinti](https://en.wikipedia.org/wiki/Kzin) from Larry Niven’s Known Space series and [Charr](https://wiki.guildwars2.com/wiki/Charr) from Guild Wars 2 by ArenaNet. Some words of Rra-krr language are shamelessly borrow from Kzints'utng (Kzinti language).
+- The Ancient are very advanced race who have a galaxy wide empire. They mysteriously disappear around 100,000-300,000 years ago and leave their legacy across the galaxy, such as knowledge base puzzle that given to two of their up-lifted race (as know of to date), ruins of their civilization, many technology and artifact that still working to this date. Which I also ~~steal~~ borrow the idea from Star Gate... :P
+- Like Felidae, their distance relative on Earth, the Rra-krr have about 3 or 4 times superior sense of smell than human, this further supplemented by the presence of vomeronasal organ in the roof of their mouth. The Rra-krr are partially nocturnal. They have excellent night vision as their eyes have Tapetum lucidum that reflect light back through the retina, which give their eyes a distinctive shine. As a result, their eyes is about 6 times more light sensitive than Human. Their eyes have more rod cells than cone cells and could see in near total darkness as very rough shape in shade of gray, this result they have weird color vision (see as kind of desaturated version of image). The Rra-krr can see in visible light, near infrared (up to 800 nm) and UVA (315-400 nm) spectrum. Their eyes also have Nictitating membrane. Their ears can hear the sound as human do and up to ultrasonic range. The Rra-krr have 3 fingers with opposable thumb and their claws are also retractable. Their tongue are also covered with tiny barbs, this also including their male sexual organ if you are curious.
+- The Rra-krr have low tolerance in many type of Earth’s drugs - such as some type of antibiotics like acetaminophen (Paracetamol), some type of sedative and some food that eatable by Human - such as chocolate, plant species in the Allium genius - onions, scallion, shallot and garlic can be poisonous for them if ingest in large amount.
+- Unlike the Human, who use base-10 number system (numbers from 0-9), The Rra-krr use base-8 number system (numbers from 0-7).
+- A day in Rra-krr homeworld is about 1 hours longer than earth’s day, a year in Rra-krr is about 427 days compared to earth’s year.
+- Yes, that Nepeta-Leaves extract or Rra-krr’s mint tea is exactly a catnip delivered product.
