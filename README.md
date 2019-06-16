@@ -1,9 +1,9 @@
 Khral's assorted characters and shit
 ====================================
 
-This repository contain my writings, mostly in markdown format.
+This repository contain my writings I write for fun, mostly in markdown format.
 
-Best viewed with word-wrap turned on.
+Best view with word-wrap turned on.
 
 Characters
 ==========
