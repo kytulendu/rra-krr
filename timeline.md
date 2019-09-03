@@ -4,7 +4,7 @@
 
 Big Bang (IRL)
 
-- A powerful being from higher dimension notice a new universe going to born, it arrived n^-x second after The Big Bang, along with "a fragment that aren't supposed to exist", then it start to subtly manipulate The Universe.
+- A powerful being from higher dimension notice a new universe going to born, it arrived n^-x second after The Big Bang, along with "a fragment that aren't supposed to exist", then it start to not so subtly manipulate The Universe.
 
 ##### 66,000,000 years ago
 
@@ -21,10 +21,6 @@ Birth of the modern Rra-krr
 
 - The Ancient mysteriously disappear.
 
--------
-
-`TODO: tweak this section!`
-
 ##### 22,800 years ago
 
 - The Patriarch's dynasty founded and the Patriarch's palace build on top of The Ancient's Knowledge Repository Puzzle site
@@ -38,21 +34,25 @@ Birth of the modern Rra-krr
 
 - Rra-krr invented gravity polarizer
 
-##### 19,300 years ago
+##### 19,400 years ago
 
 Begin of Rra-krr's interstellar empire
 
 - Rra-krr Successfully colonize a planet in the nearest star system 3.5 light years away from Rra-krr Home
 
-##### 19,000 years ago
+##### 19,200 years ago
 
 - Rra-krr have colony of 4 star systems (including Rra-krr Home)
 - The Rra-krr get invladed by xxx
 
-##### 18,900 years ago
+##### 19,100 years ago
 
 - Rra-krr invented hyperdrive
 - Rra-krr's first faster-than-light space ship
+
+`TODO: Put this some where`
+
+- Rra-krr first contact with the Derggonian
 
 ---
 
@@ -71,6 +71,8 @@ Human's first crewed mission to land on the Moon (IRL)
 
 ##### 2329 (15021)
 
+The Man Rra-krr War.
+
 - First contact of Rra-krr and Human near the edge of Human’s colony in the Alpha Centauri star system, which ended badly as all 5 of the human representive are eaten and 1 Rra-krr representative death, due to some misunderstanding on both side, which result in 22 years of ~~war~~ minor skirmish. Lots of causality on the Human side.
 
 ##### 2348 (15043) approximate
@@ -83,7 +85,7 @@ Human's first crewed mission to land on the Moon (IRL)
 - The Slaver send a very powerful psychic burst, killed three quarters of Rra-krr telepath and make many of other race gone mad or some commit suicide.
 - Few days after, Rra-krr contact Human for negotiation to end the war as there are threat of The Slaver present in the galaxy. The negotiation was success, as they come with the term that both side agree on.
 - The combined force start assult The Slaver strong hold on Alpha Centauri colony
-- Months later, Scrawny-Little-One killed The Slaver before it activate the physic amplifier,
+- Months later, Scrawny-Little-One killed The Slaver before it activate the physic amplifier.
 The The Slaver incident ended. The number of cutalities are far greather than the war it self, and lots of mind dammaged surviros.
 
 ##### 10 August 2351 (37 Hrruur 15046)
@@ -96,3 +98,10 @@ The Man Rra-krr War was officially ended.
 - Rra-krr’s Patriarch honor celemorny for the combatant from all races who involve in The Slaver Incident, both alive and death.
 - Rra-krr’s Patriarch have given a name to Scrawny-Little-One as Rrowl, now he is know as Rrowl-Telepath.
 
+##### 2354
+
+- Rrowl-Telepath recovered from the mental injury inflict by The Slaver. He was stationed onboard his ship, The Bloody-Claw, as a telepath/hyperspace-navigator and explore the unknown space with his small crew.
+
+##### 235x
+
+The Hidden Temple Incident
