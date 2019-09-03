@@ -8,9 +8,19 @@ Best view with word-wrap turned on.
 Time Line
 =========
 
-[Here](../master/timeline.md)
+* [Here](../master/timeline.md)
 
 Characters
 ==========
 
 * [Rrowl-Telepath](../master/rrowl.md)
+
+Stories
+=======
+
+* [Untitled isekai story](../master/silly_isekai_story_00.md)
+A silly fanfiction style story of my own character adventure in generic isekai world. Not cannon. :P
+
+Miscs
+=====
+
