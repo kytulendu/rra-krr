@@ -13,7 +13,7 @@ Rrowl-Telepath
 
 **Race:** Formerly a Rra-krr or Smilodon as called by Human. Now, some-kind-of-eldritch-shape-shifter.
 
-**Gender:** N/A. Appear as a male in Rra-krr form, male personality.
+**Gender:** N/A. Appear as a male in Rra-krr form and feral form, male personality.
 
 **Age:** Appear as an adult in Rra-krr form.
 
@@ -27,17 +27,26 @@ Rrowl-Telepath
 
 **Languages:** Rra-krrts'utng, Ancient, Derggonian, Sol (English) and a dozen of other alien languages. (He can't speak perfect English due to his specie's mouth doesn't designed for Earth's language. When he speak, he do have that weird accent like when you force a tiger to speak English for example.)
 
-**Height (in Rra-krr form):** standing about 230 cm (7.5 ft)
+**Height (in Rra-krr form):** standing (hunched pose) about 230 cm (7.5 ft)
 
 **Weight (in Rra-krr form):** about 210 kg (462 lb)
 
-**Distinguishing marks (in Rra-krr form):**
+**Distinguishing marks:**
+
+Rra-krr form
 
 - Orange fur.
 - Faint dark red/orange stripes.
 - Dark red/orange shaggy mane.
 - Blue eyes, with round pupils.
 - Larger than average modern Rra-krr.
+
+Fanged God form (feral form)
+
+- Black fur.
+- Lion like mane.
+- Glowing red eyes, with slit pupils.
+- Curved horns (like Kudu horns).
 
 **Relative:**
 
@@ -83,21 +92,21 @@ With shorter range, his telepathic power is stronger, at less than 40-50 m, he c
 
 In range longer than 2,000 km, he have limited telepathy, like sense psychic present within a star system for example.
 
-One down side of this form is he can't always maintain this form, some times when he was unconscious or psychically unstable such as when he was asleep or in high mental stress, he will likely turn back in to true form.
+One down side of this form is he can't always maintain this form, some times when he was unconscious or psychically unstable such as when he was asleep or in high mental stress, he will likely turned back to true form.
 
-**Feral form**
+**Fanged God form or feral form**
 
-This form is a much more family friendly version of his True form. He know of this form as a distant memory he received while he was in painful transformation from a Rra-krr into what he is now. In this form, he bear resemblance to a large black furred saber-toothed lion-like creature with glowing red eyes, lion like tail and a pair of horns and a pair of ears, that walk on four legs like Earth's big cats, with usual height similar size to Horse on Earth (about 160 cm, measure from shoulder to feet).
-
-This form also "accidentally" look like those depicted in Rra-krr's art as a representation of The Fanged God, a Rra-krr's deity. And due to this, he rarely shape-shift into this form, as it might cause some chaos among the religious Rra-krr if being seen.
+This form is a much more family friendly version of his true form. He know of this form as a distant memory he received while he was in painful transformation from a Rra-krr into what he is now. In this form, he bear resemblance to a large black furred saber-toothed lion-like creature with glowing red eyes and slit pupils, lion like tail and a pair of horns and a pair of ears, that walk on four legs like Earth's big cats, with varies size depending on his will, ranging from the size of small kitten to the size of a star, the default size is about 220 cm (7.2 ft) measure from shoulder to feet.
 
 In this form, he have enhance strength, speed and endurance, able to do all telepath things without taking Nepeta-Leaves extract, even better, his telepathic ability is greatly improve, surpassed the most powerful telepathic creature in Known Space (and possibly beyond) and given him access to various powers he received from The Hidden Temple incident. Such as extra sensory that enable him to "see" the soul of any being or ability to traverse other dimension/other universe. Although the abilities is a lots less powerful than when he was in true form.
+
+This form also "accidentally" look like those depicted in Rra-krr's art as a representation of The Fanged God, a Rra-krr's deity. And due to this, he rarely shape-shift into this form, as it might cause some chaos among the religious Rra-krr if being seen.
 
 **True form**
 
 The last one is true form, which is what he was turned into after The Hidden Temple Incident. In this form, he appear as some kind of terrifying (for some) eldritch big cat monster thingy that looks like the result of combination of flesh, fur and bones, with some otherworldly touch. The head was looks like a saber-tooth cat skull, with strange red colored eye like symbol craved on the forehead, red glowing orbs for eyes in empty eyes socket, two pair of horns (which kinda looks like Charr's skull), long black fluffy mane and long barbed tongue. The body was covered with black fur. The tail is lion-like. With usual height the same as Feral form (on all four). He can stood on 2 legs or on all four in this form.
 
-This form give him access to all power he have in Feral form without any restriction, with addition, for example, the power to possess and take total control of any space ship then move entire ship to other dimension/other universe or a power to corrupt those who have weak mind and slowly mutate them in to... something vile... that would twisted their mind and their fresh and made them a loyal servant that worship him as their deity and willing to do any of his binding...
+This form give him access to all power he have in feral form without any restriction, with addition, for example, the power to possess and take total control of any space ship then move entire ship to other dimension/other universe or a power to corrupt those who have weak mind and slowly mutate them in to... something vile... that would twisted their mind and their fresh and made them a loyal servant that worship him as their deity and willing to do any of his binding...
 
 But this form didn't come with only the good side, it comes with the down side as well. As this form is beyond mortal being to comprehend (in his universe at least and probably other too, but likely it did some kind of mind trick to the one seeing him in this form). If any intelligent mortal see him in this form, varies between individuals, some might received a terrible experience like they have seen some unspeakable horror, some might gone mad and might starting to worship him or some just get uncomfortable feeling of dread. Along with the hunger for fresh and blood (and of cause, soul, but he didn't know he have appetite for that yet ;)) that he always feel since he turned in to this eldritch being will get worse in this form, even if he slaughter and consume entire herd of large herbivore prey native to Sherres, only to be discovered that the hunger didn't diminish... but he might get used to it, eventually...
 
@@ -151,7 +160,7 @@ Some times after the incident, The Rra-krr’s Patriarch honor all of combatant 
 
 It took nearly 3 years for him, with help from The Patriarch’s healer telepath and his clan to heal from the mental injury inflict by The Slaver, but not completely due to severe damage that The Slaver inflict to him. He was some what the same Rra-krr as he was known before, tho he have his past memory and other skill intact, but his behavior was more feral and a bit more aggressive than before.
 
-After he have recovered, he was stationed onboard his ship, The Bloody-Claw, as a telepath/ hyperspace-navigator and explore unknown space with his small crew, to full fill the desire to become an explorer like his sire.
+After he have recovered, he was stationed onboard his ship, The Bloody-Claw, as a telepath/hyperspace-navigator and explore the unknown space with his small crew, to full fill the desire to become an explorer like his sire.
 
 **The Hidden Temple Incident**
 
@@ -159,7 +168,7 @@ Lord of the Forest, also known as Lord of the Savannah in majority of Rra-krr-Ho
 
 He is depicted as black furred Rra-krr with horns and red eyes. His hands often have bow and arrow or a spear as a weapon.
 
-For many Rra-krr clan, he was also the god of the hunt, as they believed that The Fanged God’s hunting ground are the hunting reserve or the untamed wild, which covering the area more than half of Rra-krr home world land. The Rra-krr hunters will often pray to him for permission to enter the hunting ground or for a good hunt, and some times, leave an offering on a make shift altar in form of an entire head or a skull of their prey, complete with some wild flowers, herbs and burning incense before they leave the hunting ground after a successful hunt.
+For many Rra-krr clan, he was also the god of the hunt, as they believed that The Fanged God’s hunting ground are the hunting reserve or the untamed wild, which covering the area more than half of Rra-krr home world's land. The Rra-krr hunters will often pray to him for permission to enter the hunting ground or for a good hunt, and some times, leave an offering on a make shift altar in form of an entire head or a skull of their prey, complete with some wild flowers, herbs and burning incense before they leave the hunting ground after a successful hunt.
 
 From a recently discovered record of one of the oldest Rra-krr clan on Rra-krr-Home, that survived the name less Patriarch’s order to destroy many old records, artifacts, books, scrolls or historical site during his short reign in the early age of the Rra-krr civilization, some Rra-krr lore keeper theorize that Lord of the Forest or Lord of the Savannah was the The Fanged God in disguise. But this contradict with another record that was in comparable age from a defuncted Rra-krr clan's tomb that was discovered hundred of years ago. This cause intense debate among some Rra-krr lore keeper that in some instance was resolved in a duel in the arena...
 
@@ -191,13 +200,13 @@ As he about to step in to the hall way, he feel a strong sense of dread, his ins
 - Smilodon/Rra-krr is a not so generic space cat, they are inspired mostly by [Kzinti](https://en.wikipedia.org/wiki/Kzin) from Larry Niven’s Known Space series and [Charr](https://wiki.guildwars2.com/wiki/Charr) from Guild Wars 2 by ArenaNet. Some words of Rra-krr language are shamelessly borrow from Kzints'utng (Kzinti language).
 - Like Felidae, their distance relative on Earth, the Rra-krr have about 3 or 4 times superior sense of smell than human, this further supplemented by the presence of vomeronasal organ in the roof of their mouth. The Rra-krr are partially nocturnal. They have excellent night vision as their eyes have Tapetum lucidum that reflect light back through the retina, which give their eyes a distinctive shine. As a result, their eyes is about 6-7 times more light sensitive than Human. Their eyes have more rod cells than cone cells and could see in near total darkness as very rough shape in shade of gray, this result they have weird color vision (see as kind of desaturated version of image). The Rra-krr can see in visible light, near infrared (up to 800 nm) and UVA (315-400 nm) spectrum. Their eyes also have Nictitating membrane. Their ears can hear the sound as human do and up to ultrasonic range. The Rra-krr have 3 fingers with opposable thumb and their claws are also retractable. Their tongue are also covered with tiny barbs.
 - The Rra-krr have low tolerance in many type of Earth’s drugs - such as some type of antibiotics like acetaminophen (Paracetamol), some type of sedative and some food that eatable by Human - such as chocolate, plant species in the Allium genius - onions, scallion, shallot and garlic can be poisonous for them if ingest in large amount.
-
-`Todo: Add Rra-krr home world and other information`
-
-- The Ancient are very advanced race who have a galaxy wide empire. They mysteriously disappear around 300,000-100,000 years ago and leave their legacy across the galaxy, such as The Ancient's Knowledge Repository Puzzle that given to two of their up-lifted race (as know of to date), ruins of their civilization, many technology and artifact that still working to this date. Which I also ~~steal~~ borrow the idea from Star Gate... :P
-- The Slaver is a race with immerse psychic power that use their psychic ability to enslave lesser races, they use them to build their civilization as they see fit for worst of worst things against their will, even farm sentience races and use them as food source by mind control them to be willing to be eaten alive by The Slaver. They are kinda dump as they relied their slave to do anything for them. Around 66 millions years ago they are at war with The Ancient, that result in galaxy wide conflict and many of potential lifeforms and advanced races went extinct in the process. In the end, they lose the war with The Ancient and went extinct.
-- The Derggonian, like the name suggest, they are dragon... yes, dragon! in space!!! (yeah, I'm so creative with the name :P) They are the most advanced race in the known, their technology and their understanding of physics surpass every races in known space, to the point that their technology is almost indistinguishable from magic... (or did they actually have magic?) ~~They also have bad habit of hording gold and shiny things.~~ Not much known about their home world, lets alone the location of their home world as they like to keep it secret. Some think it was some where in un-explored space in Milky Way galaxy, while some think their home world lay in another galaxy.
-As in the case like The Rra-krr, The Derggonian was also uplifted by The Ancient a long times ago, and they also possess The Ancient's Knowledge Repository Puzzle just like the Rra-krr.
 - Unlike the Human, who use base-10 number system (numbers from 0-9), The Rra-krr use base-8 number system (numbers from 0-7).
 - A day in Rra-krr homeworld is about 1 hours longer than earth’s day, a year in Rra-krr is about 427 days compared to earth’s year.
-- Yes, that Nepeta-Leaves extract or Rra-krr’s mint tea is exactly a catnip delivered product.
+
+`Todo: Add Rra-krr's home world and other informations`
+
+- The Ancient are very advanced race who have a galaxy wide empire. They mysteriously disappear around 300,000-100,000 years ago and leave their legacy across the galaxy, such as The Ancient's Knowledge Repository Puzzle that given to two of their up-lifted race (as know of to date), ruins of their civilization, many technology and artifact that still working to this date. Which I also ~~steal~~ borrow the idea from Star Gate... :P
+- The Slaver is a race with immerse psychic power that use their psychic ability to enslave lesser races, they use them to build their civilization as they see fit for worst of worst things against their will, even farm sentience races and use them as food source by mind control them to be willing to be eaten alive by The Slaver. They are kinda dump as they relied on their slave to do anything for them. Around 66 millions years ago they are at war with The Ancient, that result in galaxy wide conflict and many of potential lifeforms and advanced races went extinct in the process. In the end, they lose the war with The Ancient and went extinct. They are ~~inspired from~~ the Thrint from Larry Niven’s Known Space series.
+- The Derggonian, like the name suggest, they are dragon... yes, dragon! in space!!! (yeah, I'm so creative with the name :P) They are the most advanced race in the known, their technology and their understanding of physics surpass every races in known space, to the point that their technology is almost indistinguishable from magic... (or did they actually have magic?) ~~They also have bad habit of hording gold and shiny things.~~ Not much known about their home world, lets alone the location of their home world as they like to keep it secret. Some think it was some where in un-explored space in Milky Way galaxy, while some think their home world lay in another galaxy.
+As in the case like The Rra-krr, The Derggonian was also uplifted by The Ancient a long times ago, and they also possess The Ancient's Knowledge Repository Puzzle just like the Rra-krr.
+- And yes, that Nepeta-Leaves extract or Rra-krr’s mint tea is exactly a catnip delivered product.
