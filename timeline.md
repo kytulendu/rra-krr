@@ -27,17 +27,17 @@ Birth of the modern Rra-krr
 
 ##### 32,800 years ago
 
-- The Patriarch's dynasty founded and the Patriarch's palace build on top of The Ancient's Knowledge Repository Puzzle site
+- The Patriarch's dynasty founded after a long period of war and the Patriarch's palace build on top of The Ancient's Knowledge Repository Puzzle site
 - Start of common Rra-krr's calendar era
 
 ##### 29,700 years ago
 
 - First Rra-krr landed on one the 3 moons of Rra-krr Home
-- Rra-krr start to colonize planets and asterdroids in their solar system
+- Rra-krr start to colonize planets and asteroids in their solar system
 
 ##### 29,500 years ago
 
-- Rra-krr invented gravity polarizer
+- Rra-krr invented gravity polarizer with the help from informations received from a breakthrough in solving The Ancient's Knowledge Repository Puzzle
 
 ##### 29,400 years ago
 
@@ -51,10 +51,14 @@ Begin of Rra-krr's interstellar empire
 
 ##### 29,100 years ago
 
+**START TODO**
+
 - Rra-krr invented hyperdrive
 - Rra-krr's first faster-than-light space ship
 - A Derggonian deep space survey ship detected Rra-krr's first faster-than-light test flight, Rra-krr first contact with Derggonian
 - About 50 years later, an alliance between Derggonian and Rra-krr was formed. Which in the far future, another two faster-than-light capable races invited in, now known as The Alliance-Of-The-Four-Great-Race
+
+**END TODO**
 
 ##### 1969
 
