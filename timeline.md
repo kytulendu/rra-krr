@@ -55,8 +55,8 @@ Begin of Rra-krr's interstellar empire
 
 - Rra-krr invented hyperdrive
 - Rra-krr's first faster-than-light space ship
-- A Derggonian deep space survey ship detected Rra-krr's first faster-than-light test flight, Rra-krr first contact with Derggonian
-- About 50 years later, an alliance between Derggonian and Rra-krr was formed. Which in the far future, another two faster-than-light capable races invited in, now known as The Alliance-Of-The-Four-Great-Race
+- A Drakor deep space survey ship detected Rra-krr's first faster-than-light test flight, Rra-krr first contact with Drakor
+- About 50 years later, an alliance between Drakor and Rra-krr was formed. Which in the far future, another two faster-than-light capable races invited in, now known as The Alliance-Of-The-Four-Great-Race
 
 **END TODO**
 
@@ -66,18 +66,20 @@ Human's first crewed mission to land on the Moon (IRL)
 
 ##### 10 October 2326 (12 of M'krrow 104466)
 
-- Zaar-Admiral small exploation fleet discovered Shrres and Cinder-Tail.
+- Zaar-Admiral small exploration fleet discovered Shrres and Cinder-Tail.
 
 ##### 12 October 2326 (14 of M'krrow 104466)
 
-- Scrawny-Little-One (later known as Rrowl-Telepath) birth abord The Conqurer’s-Fang orbiting Shrres.
-- Zaar-Admiral (Zaar-Skarrowl) .... 
+- Scrawny-Little-One (later known as Rrowl-Telepath) birth aboard The Conqurer’s-Fang orbiting Shrres.
+- Zaar-Admiral (Zaar-Skarrowl) ....
+
+**TODO**
 
 ##### 2329 (104471)
 
 The Man Rra-krr War.
 
-- First contact of Rra-krr and Human near the edge of Human’s colony in the Alpha Centauri star system, which ended badly as all 5 of the human representive are eaten and 1 Rra-krr representative death, due to some misunderstanding on both side, which result in 22 years of ~~war~~ minor skirmish. Lots of causality on the Human side.
+- First contact of Rra-krr and Human near the edge of Human’s colony in the Alpha Centauri star system, which ended badly as all 5 of the human representative are eaten and 1 Rra-krr representative death due to some misunderstanding on both side, which result in 22 years of ~~war~~ minor skirmish. Lots of causality on the Human side.
 
 ##### 2348 (104514) approximate
 
@@ -85,12 +87,12 @@ The Man Rra-krr War.
 
 ##### February 2350 - August 2351 (xxx 104516 - Hrruur 104517)
 
-- The Human found a way to disable the stasis shield, unlease The Slaver to the galaxy.
-- The Slaver send a very powerful psychic burst, killed three quarters of Rra-krr telepath and make many of other race gone mad or some commit suicide.
+- The Human found a way to disable the stasis shield on The Slaver's ship, unleash The Slaver to the galaxy.
+- The Slaver send a very powerful psychic burst, killed three quarters of Rra-krr telepath and make many of other race telepath gone mad or some commit suicide.
 - Few days after, Rra-krr contact Human for negotiation to end the war as there are threat of The Slaver present in the galaxy. The negotiation was success, as they come with the term that both side agree on.
-- The combined force start assult The Slaver strong hold on Alpha Centauri colony
+- The combined force start assault The Slaver strong hold on Alpha Centauri colony
 - Months later, Scrawny-Little-One killed The Slaver before it activate the physic amplifier.
-The The Slaver incident ended. The number of cutalities are far greather than the war it self, and lots of mind dammaged surviros.
+The The Slaver incident ended. The number of causalities are far greater than the war it self, and lots of mind damaged survivor.
 
 ##### 10 August 2351 (37 Hrruur 104517)
 
@@ -99,7 +101,7 @@ The Man Rra-krr War was officially ended.
 ##### 2351 (104517)
 
 - Rra-krr - Human peace talk.
-- Rra-krr’s Patriarch honor celemorny for the combatant from all races who involve in The Slaver Incident, both alive and death.
+- Rra-krr’s Patriarch honor ceremony for the combatant from all races who involve in The Slaver Incident, both alive and death.
 - Rra-krr’s Patriarch have given a name to Scrawny-Little-One as Rrowl, now he is know as Rrowl-Telepath.
 
 ##### 2354 (104522)
