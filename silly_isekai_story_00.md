@@ -35,6 +35,6 @@ The werewolf leader laying near the stone bed, his body is full of wounds and wa
 
 The inquisitors leader finished off the werewolf, and ordered to destroy this site.
 
-With no one survived or escaped, the inquisitor have successfully stopped the summoning ritual and destroyed the ancient stone structure. But there was something strange, The inquisitors have finished their business and leave the scene, without notice the soft glow of red dot-comas on the intact stone bed...
+With no one survived or escaped, the inquisitor have successfully stopped the summoning ritual and destroyed the ancient stone structure. But there was something strange, The inquisitors have finished their business and leave the scene, without notice the soft glow of red dot-comas scripts on the intact stone bed...
 
 [Chapter 1](../master/silly_isekai_story_01.md)
