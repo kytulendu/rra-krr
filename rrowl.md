@@ -25,7 +25,7 @@ Rrowl-Telepath
 
 **Occupation:** Telepath of Skarrowl Clan
 
-**Languages:** Rra-krrts'utng, Ancient, Drakor, Sol (English) and a dozen of other alien languages. (He can't speak perfect English due to his specie's mouth doesn't designed for Earth's language. When he speak, he do have that weird accent like when you force a tiger to speak English for example.)
+**Languages:** Rra-krrts'utng, Ancient, Drakor, Sol (English) and a dozen of other alien languages. (He can't speak perfect English due to his specie's mouth doesn't suitable for Earth's language. When he speak, he do have that weird accent like when you force a tiger to speak English for example.)
 
 **Height (in Rra-krr form):** standing (hunched pose) about 230 cm (7.5 ft)
 
@@ -182,14 +182,13 @@ They arrived at the newly discovered section. As they walk to the end of the lar
 
 The site keeper then get a sudden summon call from the site keeper assistance and have to left Rrowl alone for a while.
 
-As the site keeper walk out of his sight, he suddenly feel a strong sense of dread coming from the sealed door, his instinct screaming danger and urge him to get away from here quick, but something is calling him in his mind, he heard incoherent whispers of hiss and growl of a voice that chill his spine, it urge him to open the sealed door. Unable to resist the call, no matter how much he tried, he walked...
+As the site keeper walk out of his sight, he suddenly feel a strong sense of dread coming from the sealed door, his instinct screaming danger and urge him to get away from here quick, but something is calling him in his mind, he heard incoherent whispers of hiss and growl in unknown language of a voice that chill his spine, some how he know the meaning of it, it urge him to open the sealed door. Unable to resist the call, no matter how much he tried, he walked...
 
 He touched the stasis shielded door, the entire room begin to emit a low hum followed by a crack of mechanical lock disengage and a sound of force field dissolve with following silent.
 
-The door opened, reveal a long hallway lead to a large hall, illuminate with dimly lit and faulty light strips. Following the call, he entered it.
+The door opened, he walk into the long hallway lead to a large hall, illuminate with dimly lit and faulty light strips. The hallway looks much older and difference than of The Ancient's architect out side, which clearly this part wasn't made by The Ancient. There are carvings on the wall, detail some kind of story or ritual, many of it was damaged by some kind of claws marks. The claws marks is all over the place, on the wall, floor and ceiling.
 
-The hallway looks much older and difference than of The Ancient's architect out side, which clearly this part wasn't made by The Ancient. There are carvings on the wall, detail some kind of story or ritual, many of it was damaged by some kind of claws marks. The claws marks is all over the wall, floor and ceiling.
-
+He arrived at the large hall, it painted red with blood and gore, littered with various remains in varies condition, many of which are what appear to be The Ancient, some are animals native to Shrres and some are unknown lifeforms. In the back of the hall was a remain of large beast, it's size towering the ceiling of the hall, as he walk closer, 
 
 
 
