@@ -94,6 +94,8 @@ One down side of this form is he can't always maintain this form. When he was un
 
 **Fanged God form or feral form**
 
+![Big Kitty](./resources/Lord_of_the_Forest_Fanged_God_Form_1280.png)
+
 This form is a much more family friendly version of his true form. He know of this form as a distant memory he received while he was in painful transformation from a Rra-krr into what he is now. In this form, he bear resemblance to a large black furred saber-toothed big-cat-like creature, with black mane, red eyes and slit pupils, lion like tail, a pair of horns and a pair of ears, that walk on four legs like Earth's big cats. This form is varies in size depending on his will, ranging from the size of small kitten to the size of a star, the usual size is about 220 cm (7.2 ft) measure from shoulder to feet.
 
 In this form, he have enhance strength, speed and endurance, able to do all telepath things without taking Nepeta-Leaves extract, even better, his telepathic ability is greatly improve, surpassed the most powerful telepathic being in explored space (and possibly beyond) and given him access to various powers he received from The Hidden Temple incident. Such as extra sensory that enable him to "see" the soul of any being, able to phase through matter or ability to teleport to anywhere he desired or traverse to/from other dimension/other universe. Although the abilities is a lots less powerful than when he was in true form.
