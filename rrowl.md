@@ -25,7 +25,7 @@ Rrowl-Telepath
 
 **Occupation:** Telepath of Skarrowl Clan
 
-**Languages:** Rra-krrts'utng, Ancient, Drakor, Sol (English) and a dozen of other alien languages. (He can't speak perfect English due to his specie's mouth doesn't suitable for Earth's language. When he speak, he do have that weird accent like when you force a tiger to speak English for example.)
+**Languages:** Rra-krr, Ancient, Drakor, Sol (English) and a dozen of other alien languages. (He can't speak perfect English due to his specie's mouth doesn't suitable for Earth's language. When he speak, he do have that weird accent like when you force a tiger to speak English for example.)
 
 **Height (in Rra-krr form):** standing (hunched pose) about 230 cm (7.5 ft)
 
@@ -45,7 +45,7 @@ Fanged God form (feral form)
 
 - Black fur.
 - Black mane.
-- Glowing red eyes, with slit pupils.
+- Red eyes, with slit pupils.
 - Curved horns (Kudu like horns).
 
 **Relative:**
