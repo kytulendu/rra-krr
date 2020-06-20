@@ -4,7 +4,7 @@
 
 Big Bang (IRL)
 
-- A powerful being from higher dimension notice a new universe going to born, it arrived n^-x second after The Big Bang, along with "a fragment that aren't supposed to exist", then it start to not so subtly manipulate The Universe.
+- A powerful being from another universe notice a new universe going to born, it arrived n^-x second after The Big Bang, along with "a fragment that aren't supposed to exist", then it start to not so subtly manipulate The Universe.
 
 ##### 66,000,000 years ago
 
