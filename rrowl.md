@@ -3,9 +3,9 @@ Rrowl-Telepath
 
 `This was still a WIP and in alpha quality at the moment, but it getting there :P`
 
-![Spooky Floof](./resources/Lord_of_the_Forest_1280.png)
+![Spooky Floof](./resources/The_Fanged_One_1280.png)
 
-**[Rrowl's true form - early and outdated concept art]**
+**[Rrowl's true form]**
 
 **Name:** Rrowl-Telepath/Rrowl-Skarrowl
 
@@ -109,9 +109,7 @@ This form also "accidentally" look like those depicted in Rra-krr's art as a rep
 
 **True form**
 
-![Spooky Floof](./resources/Lord_of_the_Forest_1280.png)
-
-**[early and outdated concept art]**
+![Spooky Floof](./resources/The_Fanged_One_1280.png)
 
 The last one is true form, which is what he was turned into after The Hidden Temple Incident. In this form, he appear as some kind of terrifying (for some) big cat monster thingy that looks like the result of unholy combination of flesh, fur and bones. The head was looks like a saber-tooth cat skull, red glowing eyes in empty eyes socket, two pair of horns (the head is kinda looks like Charr's skull), long black fluffy mane and long barbed tongue. The body was covered with black fur, with dark, menacing aura, emit from the body that appear to move in it's own depending on his mind. The tail is lion-like. With usual size on all four about the same as Feral form. He can stood on 2 legs or on all four in this form.
 
