@@ -13,7 +13,7 @@ Time Line
 Characters
 ==========
 
-* [Rrowl-Telepath](../master/rrowl.md)
+* [Rrowl](../master/rrowl.md)
 
 Stories
 =======

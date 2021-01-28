@@ -1,5 +1,5 @@
-Rrowl-Telepath
-==============
+Rrowl
+=====
 
 `This was still a WIP and in alpha quality at the moment, but it getting there :P`
 
@@ -11,7 +11,7 @@ Rrowl-Telepath
 
 **Aliases:** Rrowl (Roughly translate from Old Rra-krr to English as “vengeance/retribution”), Scrawny-Little-One (birth name), Second-Telepath-of-Skarrowl-Clan (profession name), Incarnation of The Fanged God, The Fanged One, Lord of the Forest/Lord of the Savannah
 
-**Race:** Unknown, some-kind-of-eldritch-shape-shifter. Formerly a Rra-krr/Smilodon (as called by Human).
+**Specie:** Unknown, some-kind-of-eldritch-shape-shifter. Formerly a Rra-krr/Smilodon (as called by Human).
 
 **Gender:** Not applicable. Appear as a male in Rra-krr form and feral form, male personality.
 
@@ -48,6 +48,16 @@ Fanged God form (feral form)
 - Red eyes, with slit pupils.
 - Curved horns (Kudu like horns).
 
+Lord of the Forest form (true form)
+
+- Black fur.
+- Long black mane.
+- Red glowing eyes.
+- Saber-tooth cat like skull for head.
+- Sika deer like anthers.
+- Have a pair of chin bone horns.
+- The back have enlonged spinous process.
+
 **Relative:**
 
 - Zarr-Skarrowl, foster sire
@@ -67,7 +77,7 @@ Fanged God form (feral form)
 - A Rra-krr plasma pistol.
 - He was usually wear minimal or no clothing, except on special occasion. His casual/hunting clothing consist of either a black or dark brown pants or usually, no pants, with two belts made from leather, one is utility belt that worn around his shoulder and another worn around his waist, waist belt is attached to his sword holder and scabbard at left side, his plasma pistol holsters attracted at right side, sometimes he is wearing Ceramite vest for extra protection against high powered projectile or energy weapons, just in-case.
 His favorite clothing is powered armor, if that count as clothing :P
-- He have his own space ship and a small crew of his own (although he isn’t the captain), the ship named Bloody-Claw, she was a very old Prowling Hunter class warship (comparable to human’s battle cruiser star ship class, but with a cloaking device), repaired, redecorate interior, retrofitted with many current technology and modified energy source from inferior fusion reactor to three redundant Zero-Point-Module, commissioned and gifted to him by the Patriarch and Zaar-Skarrowl. Although, it still have many outdated but upgraded systems. The ship have no heavy weapons system due to their weapon regulation law. (by “heavy weapon system” in Rra-krr's term is any single weapon system that powerful enough to destroy a continent on a planet in one shot).
+- He have his own space ship and a small crew of his own (although he isn’t the captain), the ship named Bloody-Claw, she was a very old Prowling Hunter class warship (comparable to human’s battle cruiser star ship class, but with a cloaking device), repaired, redecorate interior, retrofitted with many current technology and modified energy source from inferior fusion reactor to three redundant Zero-Point-Module, commissioned and gifted to him by the Patriarch and Zaar-Skarrowl. Although, it still have many outdated but upgraded systems. The ship have no heavy weapons system due to their weapon regulation law on private space craft. (by “heavy weapon system” in Rra-krr's term is any single weapon system that powerful enough to destroy a continent on a planet in one shot).
 Due to upgraded and modified systems and the ship equipped with an Advanced Interface Chair (a brain to computer interface device, standard among Rra-krr space craft, use by telepath to pilot the ship in hyperspace), the Bloody-Claw can be pilot by 1 pilot by using the chair. Although the ship require at lest 3 pilot, with one telepath using the chair to aid navigation systems when travel in hyperspace for optimal operation.
 He sometimes also use the ship as his den.
 
@@ -107,11 +117,11 @@ In this form, he have enhance strength, speed and endurance, able to do all tele
 
 This form also "accidentally" look like those depicted in Rra-krr's art as a representation of The Fanged God, a Rra-krr's deity. And due to this, he rarely shape-shift into this form, as it might cause some chaos among the religious Rra-krr if being seen.
 
-**True form**
+**Lord of the Forest form (true form)**
 
 ![Spooky Floof](./resources/The_Fanged_One_1280.png)
 
-The last one is true form, which is what he was turned into after The Hidden Temple Incident. In this form, he appear as some kind of terrifying (for some) big cat monster thingy that looks like the result of unholy combination of flesh, fur and bones. The head was looks like a saber-tooth cat skull, red glowing eyes in empty eyes socket, two pair of horns (the head is kinda looks like Charr's skull), long black fluffy mane and long barbed tongue. The body was covered with black fur, with dark, menacing aura, emit from the body that appear to move in it's own depending on his mind. The tail is lion-like. With usual size on all four about the same as Feral form. He can stood on 2 legs or on all four in this form.
+The last one is true form, which is what he was turned into after The Hidden Temple Incident. In this form, he appear as some kind of terrifying (for some) big cat monster thingy that looks like the result of unholy combination of flesh, fur and bones. The head was looks like a saber-tooth cat skull, red glowing eyes in empty eyes socket, a pair of sika deer like anthers and a pair of chin bone horns (the head is kinda looks like Charr's skull), long black fluffy mane and long barbed tongue. The body was covered with black fur, with dark, menacing aura, emit from the body that appear to move in it's own depending on his mind. The back have enlonged spinous process. The tail is lion-like. With usual size on all four about the same as Feral form. He can stood on 2 legs or on all four in this form.
 
 This form give him access to all power he have in feral form without any restriction, with addition, for example, the power to possess and take total control of any space ship then move entire ship to other dimension/other universe, or a power to influence people through their dreams or hallucinations, or a power to corrupt those who have weak mind and slowly mutate them in to... something vile... that would twisted their mind and their fresh and made them a loyal servant that worship him as their deity, who willing to do any of his bidding...
 
@@ -203,8 +213,10 @@ He arrived at the large hall, it painted red with blood and gore, littered with 
 
 **Notes:**
 
+- He was originally a [Kzinti](https://en.wikipedia.org/wiki/Kzin) character that was in my head for a very very long time. He finally get written into a character description with some background story around 2015 and get more development since then.
+Later in around 2018, I have decided to do a makeover for him to a not so generic space cat and move him to my not so original universe that was inspired from my favorite sci-fi. With the influence from Elias Ainsworth from Ancient Magus Bride manga, I turned him into a big cat monster thingy with skull for head that he was today. (a skull cat?)
 - His true form was heavy inspired by Wendigo from Native American folklore, Elias Ainsworth from Ancient Magus Bride by Kore Yamazaki, Boneskinner and Charr from Guild Wars 2, various art from [abz-j-harding](https://www.deviantart.com/abz-j-harding) and various beings out there.
-- Smilodon/Rra-krr is a not so generic space cat, they are heavy inspired by [Kzinti](https://en.wikipedia.org/wiki/Kzin) from Larry Niven’s Known Space series and [Charr](https://wiki.guildwars2.com/wiki/Charr) from Guild Wars 2 by ArenaNet. Some words of Rra-krr language are shamelessly borrow from Kzints'utng (Kzinti language).
+- Smilodon/Rra-krr is a not so generic space cat, they are heavy inspired by Kzinti from Larry Niven’s Known Space series and [Charr](https://wiki.guildwars2.com/wiki/Charr) from Guild Wars 2 by ArenaNet. Some words of Rra-krr language are shamelessly borrow from Kzints'utng (Kzinti language).
 - Like Felidae, their distance relative on Earth, the Rra-krr have about 3 or 4 times superior sense of smell than human, this further supplemented by the presence of vomeronasal organ in the roof of their mouth. The Rra-krr are partially nocturnal. They have excellent night vision as their eyes have Tapetum lucidum that reflect light back through the retina, which give their eyes a distinctive shine. As a result, their eyes is about 6-7 times more light sensitive than Human. The Rra-krr can see in visible light, near infrared (up to 800 nm) and UVA (315-400 nm) spectrum. Their eyes have more rod cells than cone cells, this result they have have good vision in low light environment but with a side effect of weird color vision (see as kind of desaturated version of image). Their eyes also have Nictitating membrane. Their ears can hear the sound as human do and up to ultrasonic range. The Rra-krr have 3 fingers with opposable thumb and their claws are also retractable. Their tongue are also covered with tiny barbs.
 - The Rra-krr have low tolerance in many type of Earth’s drugs - such as some type of antibiotics like acetaminophen (Paracetamol), some type of sedative and some food that eatable by Human - such as chocolate, plant species in the Allium genius - onions, scallion, shallot and garlic can be poisonous for them if ingest in large amount.
 - Unlike the Human, who use base-10 number system (numbers from 0-9), The Rra-krr use base-8 number system (numbers from 0-7).
@@ -218,5 +230,5 @@ As in the case like The Rra-krr, The Drakor was also uplifted by The Ancient a l
 - The Ancient's Knowledge Repository Puzzle or AKRP for short is an artifact left by The Ancient for their uplifted races, like the Monolith from Arthur C. Clarke's Space Odyssey series, it function as an observer (before they mysteriously disappear around 300,000-100,000 years ago) and influence the uplifted races toward technological and philosophical development, and later lead to space travel.
 It made of an unknown material, have unknown mass and was indestructible as there is some kind of force field protect it against any damage and analysis. The force field was so advanced that it was unknown to current physics. Even The Drakor, the most advanced race in the known was unable to understand or analyze it.
 Upon contact with any living being that it deem intelligent enough, it will emit light, sound, symbol, vibration, radio waves or any "sense" that a living being that touch it prefer in various patterns, including tests to measure if the living being is advanced enough to access it's repository. The lowest requirement depended on the species that The Ancient uplifted, such as the knowledge of advanced stone tools and animal domestication for the Rra-krr.
-There is a limitation of which knowledge the uplifted race can access with their current technological level, they can't access any detailed topic that is above their technological level as to advance their access, the uplifted race need to solve the puzzle that are mostly technological in nature, with some philosophy in the mix that the answer are difference between the uplifted race determined by The Ancient and AKRP. Such as, one can't access fission energy topic while their technological level is at iron age for example.
+There is a limitation of which knowledge the uplifted race can access with their current technological level, they can't access any detailed topic that is above their technological level. Such as, one can't access fission energy topic while their technological level is at iron age for example. To advance their access, the uplifted race need to solve the puzzle that are mostly technological in nature, with some philosophy in the mix that the answer are difference between the uplifted race determined by The Ancient and AKRP.
 - And yes, that Nepeta-Leaves extract or Rra-krr’s mint tea is exactly a catnip delivered product.
