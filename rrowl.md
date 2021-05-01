@@ -3,7 +3,7 @@ Rrowl
 
 `This was still a WIP and in alpha quality at the moment, but it getting there :P`
 
-![Spooky Floof](./resources/The_Fanged_One_1280.png)
+![Spooky Floof](./resources/Rrowl_Concept_1_wip_3_r_1280.png)
 
 **[Rrowl's true form]**
 
@@ -119,7 +119,7 @@ This form also "accidentally" look like those depicted in Rra-krr's art as a rep
 
 **Lord of the Forest form (true form)**
 
-![Spooky Floof](./resources/The_Fanged_One_1280.png)
+![Spooky Floof](./resources/Rrowl_Concept_1_wip_3_r_1280.png)
 
 The last one is true form, which is what he was turned into after The Hidden Temple Incident. In this form, he appear as some kind of terrifying (for some) big cat monster thingy that looks like the result of unholy combination of flesh, fur and bones. The head was looks like a saber-tooth cat skull, red glowing eyes in empty eyes socket, a pair of sika deer like anthers and a pair of chin bone horns (the head is kinda looks like Charr's skull), long black fluffy mane and long barbed tongue. The body was covered with black fur, with dark, menacing aura, emit from the body that appear to move in it's own depending on his mind. The back have enlonged spinous process. The tail is lion-like. With usual size on all four about the same as Feral form. He can stood on 2 legs or on all four in this form.
 
