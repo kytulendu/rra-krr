@@ -27,9 +27,9 @@ Rrowl
 
 **Languages:** Rra-krr, Ancient, Drakor, Sol (English) and a dozen of other alien languages. (He can't speak perfect English due to his specie's mouth doesn't suitable for Earth's language. When he speak, he do have that weird accent like when you force a tiger to speak English for example.)
 
-**Height (in Rra-krr form):** standing (hunched pose) about 230 cm (7.5 ft)
+**Height (in Rra-krr form):** standing, hunched pose about 230 cm
 
-**Weight (in Rra-krr form):** about 210 kg (462 lb)
+**Weight (in Rra-krr form):** about ??? kg
 
 **Distinguishing marks:**
 
@@ -205,10 +205,9 @@ He touched the stasis shielded door, the entire room begin to emit a low hum fol
 
 The door opened, he walk into the long hallway lead to a large hall, illuminate with dimly lit and faulty light strips. The hallway looks much older and difference than of The Ancient's architect out side, which clearly this part doesn't made by The Ancient. There are carvings on the wall, detail some kind of story or ritual, many of it was damaged by some kind of claws marks. The claws marks is all over the place, on the wall, floor and ceiling.
 
-He arrived at the large hall, it painted red with blood and gore, littered with various remains in varies condition, many of which are what appear to be The Ancient, some are animals native to Shrres and some are unknown lifeforms. In the back of the hall was a remain of a large beast... thing in half decay state, it's size towering the ceiling of the hall, it was bond by chains to large altar.
+He arrived at the large hall, it painted red with blood and gore, the air smell of blood and rot, it littered with various bones and remains in varies condition, many of which are what appear to be The Ancient, some are animals native to Shrres and some are unknown lifeforms. At the back of the hall was a remain of a large beast... thing in half decay state, it's size towering the ceiling of the hall, it was bond by chains to large altar. The altar it self is a large machinery, various tubes and wires hooked to the remain.
 
-
-
+As he walk closer to it in entranced state, he saw it's head was like prehistoric Rra-krr skull, devoid of skin and meat other than the blood red eyes that seems to stare to his soul, with horns... no, broken pair of anthers on it's head and a remain of what was once gorgeous mane.
 
 
 **Notes:**
@@ -218,7 +217,6 @@ Later in around 2018, I have decided to do a makeover for him to a not so generi
 - His true form was heavy inspired by Wendigo from Native American folklore, Elias Ainsworth from Ancient Magus Bride by Kore Yamazaki, Boneskinner and Charr from Guild Wars 2, various art from [abz-j-harding](https://www.deviantart.com/abz-j-harding) and various beings out there.
 - Smilodon/Rra-krr is a not so generic space cat, they are heavy inspired by Kzinti from Larry Niven’s Known Space series and [Charr](https://wiki.guildwars2.com/wiki/Charr) from Guild Wars 2 by ArenaNet. Some words of Rra-krr language are shamelessly borrow from Kzints'utng (Kzinti language).
 - Like Felidae, their distance relative on Earth, the Rra-krr have about 3 or 4 times superior sense of smell than human, this further supplemented by the presence of vomeronasal organ in the roof of their mouth. The Rra-krr are partially nocturnal. They have excellent night vision as their eyes have Tapetum lucidum that reflect light back through the retina, which give their eyes a distinctive shine. As a result, their eyes is about 6-7 times more light sensitive than Human. The Rra-krr can see in visible light, near infrared (up to 800 nm) and UVA (315-400 nm) spectrum. Their eyes have more rod cells than cone cells, this result they have have good vision in low light environment but with a side effect of weird color vision (see as kind of desaturated version of image). Their eyes also have Nictitating membrane. Their ears can hear the sound as human do and up to ultrasonic range. The Rra-krr have 3 fingers with opposable thumb and their claws are also retractable. Their tongue are also covered with tiny barbs.
-- The Rra-krr have low tolerance in many type of Earth’s drugs - such as some type of antibiotics like acetaminophen (Paracetamol), some type of sedative and some food that eatable by Human - such as chocolate, plant species in the Allium genius - onions, scallion, shallot and garlic can be poisonous for them if ingest in large amount.
 - Unlike the Human, who use base-10 number system (numbers from 0-9), The Rra-krr use base-8 number system (numbers from 0-7).
 
 `Todo: Add Rra-krr's home world and other informations. high oxygen atmosphere, megafauna, ~1.2 times Earth gravity, dangerous wildlife, half of the land are forest`
