@@ -21,7 +21,7 @@ Birth of the modern Rra-krr
 
 - The Ancient mysteriously disappear.
 
-##### around 32,600-32,400 years ago
+##### around 33,000 years ago
 
 - The Rra-krr found The Ancient's Knowledge Repository Puzzle
 
