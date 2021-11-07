@@ -1,5 +1,5 @@
-Khral's assorted characters and shit
-====================================
+Khral's assorted characters and stuff
+=====================================
 
 This repository contain my writings I write for fun, mostly in markdown format.
 
