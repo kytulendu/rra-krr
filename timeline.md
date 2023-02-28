@@ -1,6 +1,6 @@
 ## Time Line
 
-##### 13,800,000,000 years ago
+##### > 13,800,000,000 years ago
 
 Big Bang (IRL)
 
@@ -79,7 +79,7 @@ Human's first crewed mission to land on the Moon (IRL)
 
 The Man Rra-krr War.
 
-- First contact of Rra-krr and Human near the edge of Human’s colony in the Alpha Centauri star system, which ended badly as all 5 of the human representative are eaten and 1 Rra-krr representative death due to some misunderstanding on both side, which result in 22 years of ~~war~~ minor skirmish. Lots of causality on the Human side.
+- First contact of Rra-krr and Human near the edge of Human’s colony in the Alpha Centauri star system, which ended badly as all 5 of the human representative are eaten and 1 Rra-krr representative death due to some misunderstanding on both side, which result in 22 years of ~~war~~ minor skirmish.
 
 ##### 2348 (104514) approximate
 
@@ -94,7 +94,7 @@ The Man Rra-krr War.
 - Months later, Scrawny-Little-One killed The Slaver before it activate the physic amplifier.
 The The Slaver incident ended. The number of causalities are far greater than the war it self, and lots of mind damaged survivor.
 
-##### 10 August 2351 (37 Hrruur 104517)
+##### 10 August 2351 (37 of Hrruur 104517)
 
 The Man Rra-krr War was officially ended.
 
@@ -108,6 +108,6 @@ The Man Rra-krr War was officially ended.
 
 - Rrowl-Telepath recovered from the mental injury inflict by The Slaver. He was stationed onboard his ship, The Bloody-Claw, as a telepath/hyperspace-navigator and explore the unknown space with his small crew.
 
-##### 235x (10452x)
+##### 2356 (104526)
 
 The Hidden Temple Incident
