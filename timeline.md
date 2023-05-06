@@ -64,28 +64,28 @@ Begin of Rra-krr's interstellar empire
 
 Human's first crewed mission to land on the Moon (IRL)
 
-##### 10 October 2326 (12 of M'krrow 104466)
+##### 10 October 2326 (10 (dec) of M'krrow, year 6671 (dec))
 
 - Zaar-Admiral small exploration fleet discovered Shrres and Cinder-Tail.
 
-##### 12 October 2326 (14 of M'krrow 104466)
+##### 12 October 2326 (12 (dec) of M'krrow, year 6671 (dec))
 
 - Scrawny-Little-One (later known as Rrowl-Telepath) birth aboard The Conqurer’s-Fang orbiting Shrres.
 - Zaar-Admiral (Zaar-Skarrowl) ....
 
 **TODO**
 
-##### 2329 (104471)
+##### 2329 (6673 (dec))
 
 The Man Rra-krr War.
 
 - First contact of Rra-krr and Human near the edge of Human’s colony in the Alpha Centauri star system, which ended badly as all 5 of the human representative are eaten and 1 Rra-krr representative death due to some misunderstanding on both side, which result in 22 years of ~~war~~ minor skirmish.
 
-##### 2348 (104514) approximate
+##### 2348 (6691 (dec)) approximate
 
 - The Human found a Slaver’s ship in an archaeological dig site in Alpha Centauri star system.
 
-##### February 2350 - August 2351 (xxx 104516 - Hrruur 104517)
+##### February 2350 - August 2351 (xxx 6693 (dec) - Hrruur 6694 (dec))
 
 - The Human found a way to disable the stasis shield on The Slaver's ship, unleash The Slaver to the galaxy.
 - The Slaver send a very powerful psychic burst, killed three quarters of Rra-krr telepath and make many of other race telepath gone mad or some commit suicide.
@@ -94,20 +94,20 @@ The Man Rra-krr War.
 - Months later, Scrawny-Little-One killed The Slaver before it activate the physic amplifier.
 The The Slaver incident ended. The number of causalities are far greater than the war it self, and lots of mind damaged survivor.
 
-##### 10 August 2351 (37 of Hrruur 104517)
+##### 10 August 2351 (31 (dec) of Hrruur 6694 (dec))
 
 The Man Rra-krr War was officially ended.
 
-##### 2351 (104517)
+##### 2351 (6694 (dec))
 
 - Rra-krr - Human peace talk.
 - Rra-krr’s Patriarch honor ceremony for the combatant from all races who involve in The Slaver Incident, both alive and death.
 - Rra-krr’s Patriarch have given a name to Scrawny-Little-One as Rrowl, now he is know as Rrowl-Telepath.
 
-##### 2354 (104522)
+##### 2354 (6697 (dec))
 
 - Rrowl-Telepath recovered from the mental injury inflict by The Slaver. He was stationed onboard his ship, The Bloody-Claw, as a telepath/hyperspace-navigator and explore the unknown space with his small crew.
 
-##### 2356 (104526)
+##### 2356 (6699 (dec))
 
 The Hidden Temple Incident
