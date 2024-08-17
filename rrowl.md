@@ -3,9 +3,11 @@ Rrowl
 
 `This was still a WIP at the moment, but it getting there :P`
 
+`Warning: Contain blood and gore.`
+
 ![Spooky Floof](./resources/Rrowl_Concept_1_wip_19_3-4_only_2000.png)
 
-**[Rrowl's true form]**
+**[Rrowl's true form, with all of the cognitohazard filtered out]**
 
 **Name:** Rrowl-Telepath/Rrowl-Skarrowl
 
@@ -56,7 +58,7 @@ Lord of the Forest form (true form)
 - Saber-tooth cat like skull for head.
 - Sika deer like anthers.
 - Have a pair of chin bone horns.
-- The back have enlonged spinous process.
+- The back have spine spike.
 
 **Relative:**
 
@@ -77,10 +79,10 @@ Lord of the Forest form (true form)
 
 **Equipment:**
 
-- A traditional Rra-krr short sword/knife. this kind of blade is varies in making of the blade. It’s a status of Rra-krr’s adult hood, often use in ceremony and also function as a weapon or hunting tool). His blade is made with nearly indestructible material and both of the sharp side of the blade have build-in molecular disintegrator field generator that can be activated with a button on the hilt. When the field is activated, sharp side of the blade will give a slight blue glow, allowing it to cut through almost anything like a hot knife cut through butter by destroy the bond between molecules. The power source in the hilt can supply disintegrator field generator continuously for months before it need to recharge.
+- A traditional Rra-krr short sword/knife. (this kind of blade is varies in making of the blade. It’s a status of Rra-krr’s adult hood, often use in ceremony and also function as a weapon or hunting tool). His blade is made with nearly indestructible material and both of the sharp side of the blade have build-in molecular disintegrator field generator that can be activated with a button on the hilt. When the field is activated, sharp side of the blade will give a slight blue glow, allowing it to cut through almost anything like a hot knife cut through butter by destroy the bond between molecules. The power source in the hilt can supply disintegrator field generator continuously for months before it need to recharge.
 - A utility belt with tools, small pouches, small flasks of Nepeta-Leaves extract (aka. Rra-krr's mint tea) attached to a belt.
 - A Rra-krr plasma pistol.
-- Forest Lord's Spear (Broken), the mythical hunting spear of Lord of the Forest, recovered from The Hidden Temple of Shrres.
+- Forest Lord's Spear, the mythical hunting spear of Lord of the Forest, recovered from The Hidden Temple of Shrres. Half of it's handle is missing, likely it house a power source, which rendered most of the spear abilities doesn't work as expected or much less powerful, atleast it can reduce it's size and weight to be usable in Rra-krr form tho.
 - He was usually wear minimal or no clothing, except on special occasion. His casual/hunting clothing consist of either a black or dark brown pants or usually, no pants, with two belts made from leather, one is utility belt that worn around his shoulder and another worn around his waist, waist belt is attached to his sword holder and scabbard at left side, his plasma pistol holsters attracted at right side, sometimes he is wearing Ceramite vest for extra protection against high powered projectile or energy weapons, just in-case.
 - He have his own space ship and a small crew of his own (although he isn’t the captain), the ship named Bloody-Claw, she was a very old Prowling Hunter class warship (comparable to human’s battle cruiser star ship class, but with a cloaking device), repaired, redecorate interior, retrofitted with many current technology and modified energy source from inferior fusion reactor to three redundant Zero-Point-Module, commissioned and gifted to him by the Patriarch and Zaar-Skarrowl. Although, it still have many outdated but upgraded systems. The ship have no heavy weapons system due to their weapon regulation law on private military space craft. (by “heavy weapon system” in Rra-krr's term is any single weapon system that powerful enough to destroy a continent on a planet in one shot).
 Due to upgraded and modified systems and the ship equipped with an Advanced Interface Chair (a brain to computer interface device, standard among Rra-krr space craft, use by telepath to pilot the ship in hyperspace), the Bloody-Claw can be pilot by 1 pilot by using the chair. Although the ship require at lest 2 pilot, with one telepath using the chair to aid navigation systems when travel in hyperspace for optimal operation.
@@ -90,9 +92,12 @@ He sometimes use the ship as his den.
 
 After an incident with the remain of oddly looking creature during an archaeological trip in the Hidden Temple, He have been transformed in to... something...  He now have great power and many abilities, for example, ability to change his forms at will or phase through matter or traverse other dimension/other universe or extra sensory that enable him to "see" the soul of any being.
 
-While the power he received was superb and cool, it a bit more like a curse as his default form was now that of eldritch monster thingy that make him difficult with others, as in his universe and probably other too, this form is beyond mortal being to comprehend, or more likely it did some kind of mind trick to the one seeing him, so anyone looking at him will probably gone nut. along with unsustainable hunger for living being fresh, blood and... soul? that still linger in his mind, even when he was in Rra-krr form.
+While the power he received was superb and cool, it a bit more like a curse as his default form was now that of eldritch monster thingy that make him difficult with others, as in his universe and probably other too, this form is beyond mortal being to comprehend, or more likely it did some kind of mind trick to the one seeing him, so anyone looking at him will probably gone nut. along with insatiable hunger for living being fresh, blood and... soul? that still linger in his mind, even when he was in Rra-krr form.
 
-He can also disguise himself to any living being that other(s) is expected to see or he expected other(s) to see by using his psychic abilities to project false perception of him self, or causing hallucination to other(s) with the same method. Although, the down side is it only affect the mind, not physical body, so any machine can still detect it, with exception when use in true form. In Rra-krr form it require lots of concentration and he would unable to feel/sense emotional state or thought of those around him if not taking Nepeta-Leaves extract due to limitation of Rra-krr’s physiology.
+He can also disguise himself to any living being that other(s) is expected to see or he expected other(s) to see by using his psychic abilities to project false perception of him self, or causing hallucination to other(s) with the same method.
+Although, the down side is it only affect the mind, not physical body, so any machine can still detect it.
+In Rra-krr form it require lots of concentration and he would unable to feel/sense emotional state or thought of those around him if not taking Nepeta-Leaves extract due to limitation of Rra-krr’s physiology.
+The exception is when he use it in true form, he can also "warp the reality" of his form to what other(s) is expected to see or he expected other(s) to see.
 
 While he can shape-shift in to any creatures that he and Lord of the Forest ate when he was in true form, the forms that he shift into are the corrupted version of that forms (something that look like his true form), with exception of Rra-krr and Fanged God form.
 
@@ -126,11 +131,11 @@ This form also "accidentally" look like those depicted in Rra-krr's art as a rep
 
 ![Spooky Floof](./resources/Rrowl_Concept_1_wip_19_2000.png)
 
-The last one is true form, which is what he was turned into in The Hidden Temple Incident. In this form, he appear as some kind of terrifying (for some) big cat monster thingy that looks like the unholy combination of flesh, fur and bones. The head was looks like a saber-tooth cat skull, red glowing eyes in empty eyes socket, a pair of sika deer like anthers and a pair of chin bone horns (the head is kinda looks like Charr's skull), long black fluffy mane and long barbed tongue. The body was covered with black "fur", with dark, menacing aura, emit from the body that appear to move in it's own depending on his mind. The back have enlonged spinous process. The tail is lion-like. With usual size standing in hunched pose about 275 cm to varies depending on circumstance. He can stood on 2 legs or on all four in this form.
+The last one is true form, which is what he was turned into in The Hidden Temple Incident. In this form, he appear as some kind of terrifying (for some) big cat monster thingy that looks like the unholy combination of flesh, fur and bones. The head was looks like a saber-tooth cat skull, red glowing eyes, a pair of sika deer like anthers and a pair of chin bone horns (the head is kinda looks like Charr's skull), long black fluffy mane and long barbed tongue. The body was covered with black "fur", with dark, menacing aura, emit from the body that appear to move in it's own depending on his mind. The back have spine spike. The tail is lion-like. With usual size standing in hunched pose about 325 cm to varies depending on circumstance. He can stood on 2 legs or on all four in this form.
 
-This form give him access to all power he have in feral form without any restriction, with addition, for example, an ability to summon a blizzard any where (I do mean any where, even in desert, in building or even in space!), the power to possess and take total control of any space ship then move entire ship to other dimension/other universe, or a power to influence people through their dreams or hallucinations, or a power to corrupt those who have weak mind and slowly mutate them in to... something vile... that would twisted their mind and their fresh and made them a loyal servant that worship him as their deity, who willing to do any of his bidding...
+This form give him access to all power he have in feral form without any restriction, with many additions, for example, an ability to summon a blizzard any where (I do mean any where, even in desert, in building or even in space!), the power to possess and take total control of any space ship then move entire ship to other dimension/other universe, or a power to influence people through their dreams or hallucinations, or a power to corrupt those who have weak mind and slowly mutate them, twisted their mind and their fresh in to... something vile...  and made them a loyal servant that worship him as their deity, who willing to do any of his bidding...
 
-But this form didn't come with only the good side, it comes with the down side as well. As this form is beyond mortal being to comprehend (in his universe at least and probably other too, but likely it did some kind of mind trick to the one seeing him in this form). If any intelligent being see him in this form, varies between individuals, some might received a terrible experience like they have seen some unspeakable horror, some might gone mad and might starting to worship him or some just get uncomfortable feeling of dread. Along with the unsustainable hunger for living being fresh and blood (and of cause, soul, but he didn't know he have appetite for that yet ;)) that he always feel since he turned in to this eldritch being will get much worse in this form, even if he slaughter and consume entire herd of large herbivore prey native to Sherres, only to be discovered that the hunger didn't diminish... but he might get used to it, eventually...
+But this form didn't come with only the good side, it comes with the down side as well. As this form is beyond mortal being to comprehend (likely it did some kind of mind trick to the one seeing him in this form). If any intelligent being see him in this form, varies between individuals, some might received a terrible experience like they have seen some unspeakable horror, some might gone mad and might starting to worship him or some just get uncomfortable feeling of dread. Along with the insatiable hunger for living being fresh and blood (and of cause, soul, but he didn't know he have appetite for that yet ;)) that he always feel since he turned in to this eldritch being will get much worse in this form, even if he slaughter and consume entire herd of large herbivore prey native to Sherres, only to be discovered that the hunger didn't diminish... but he might get used to it, eventually...
 
 He have no ideas if there are more things he can do in this form or how to use most of the power he have to it's full potential, but that will improve as time passed...
 
@@ -174,7 +179,7 @@ Few days after, The Rra-krr contact The Human for negotiation to end the war as 
 
 Unable to nuke The Slaver with tactical nuclear missiles as it would render the colony inhabitable for years and kill many of both mind controlled slave and the Human resistant that was able to resist The Slaver mind control, who are still in the colony. The combined force of The Rra-krr telepaths and warriors, telepaths and troops of their Alliance-Of-The-Four-Great-Race that can arrive in time, few mercenaries and Human military units, including Zaar-Skarrowl’s elite combatant and his telepath son, Scrawny-Little-One, now known as Second-Telepath-of-Skarrowl-Clan, they assault The Slaver stronghold, with the nuclear warhead as their last resort.
 
-The fight was very difficult as it not only the physical fight, but physiological fight as well. It took the combined force 4 weeks to kill The Slaver, just before The Slaver activate the psychic amplifier to control the mind of every sentience being in 20 light years radius.
+The fight was very difficult as it not only the physical fight, but physiological fight as well. It took the combined force 4 weeks to kill The Slaver, just before The Slaver activate the psychic amplifier to control the mind of every sentience being in 100 light years radius.
 
 The Man Rra-krr War was officially ended in 31 (dec) Hrruur 6694 (dec) or Earth's date, 10 August 2351 with The Slaver death, millions life and mind were lost during the battle, much more than the entire 22 years war it self. This including Second-Telepath’s mind. Who have confronted The Slaver while it going to activate the psychic amplifier. Before his mind shattered by The Slaver psychic power, he have gone berserk and shred The Slaver in to pieces, killed it in process. His sire found him barely alive near The Slaver remains, he was in comatose state for weeks. When he was recovered, they discovered that his mind was shattered, he was unable to speak and was feral like an animal. Second-Telepath that his clan know of was gone...
 
@@ -190,29 +195,46 @@ Lord of the Forest, also known as Lord of the Savannah in majority of Rra-krr-Ho
 
 For many Rra-krr clan, he was also the god of the hunt, as they believed The Fanged God’s hunting ground are the hunting reserve or the untamed wild, which covering the area more than half of Rra-krr home world's land. The Rra-krr hunters will often pray to him for permission to enter the hunting ground or for a good hunt, and some times, leave an offering on an altar in form of an entire head or a skull of their prey, complete with some wild flowers, herbs and burning incense before they leave the hunting ground after a successful hunt.
 
-By the early patriarchy era (32,800 years ago), He was often depicted as guiding individuals from the world of the living to the afterlife, and protect thoes from creatures of the Underworld.
+By the early patriarchy era (32,800 years ago), He was often depicted as guiding individuals from the world of the living to the afterlife, and protect those from creatures of the Underworld.
 
 From a recently discovered tomb of one of the oldest Rra-krr clan on Rra-krr-Home, that survived the name less Patriarch’s order to destroy many old records, artifacts, books, scrolls or historical site during his short reign in the early age of the Rra-krr civilization, some Rra-krr lore keeper theorize that Lord of the Forest or Lord of the Savannah was the The Fanged God in disguise. But this contradict with another record that was in comparable age from a defuncted Rra-krr clan's tomb, that was discovered hundred of years ago. This cause intense debate among some Rra-krr lore keeper that in some instance ended up with a duel in the arena...
 
     - Excerpt from “Rra-krr’s Mythology” by Alexander O'Connell, 2366 first edition.
 
+*---*
+
 While his ship travel back to Shrres from the second exploration voyage, he have a strange dream of a hidden room below where his sire found his mother. This dream keep nagging him, like it was... calling him... curious about it, he decided to investigate.
 
-At the Ancient’s lab in Shrres's archaeological site, after he have a short tour and a brief from the site keeper regarding the newly discovered section of the site below where his sire found his mother that was sealed with in stasis shield, which strangely appear out of nowhere after this section of the site was excavated years ago. He come with the site keeper to look at it.
+At the Ancient’s lab in Shrres's archaeological site, after he have a short tour and a brief from the site keeper regarding the newly discovered section of the site below where his sire found his mother that was sealed in stasis shield, which strangely appear out of nowhere after this section of the site was excavated years ago. He come with the site keeper to look at it.
 
 They arrived at the newly discovered section. As they walk to the end of the large room, a large door decorated with sculpture of a strange creature with mirrored surface from the effect of the stasis field come in to view. It's design clearly isn't Ancient as it was so difference from anything they have know. But yet, the sculpture looks similar to him some how...
 
 The site keeper then got a sudden summon call from the site keeper assistance and have to left Rrowl alone for a while.
 
-As the site keeper walk out of his sight, he suddenly feel a strong sense of dread coming from the sealed door, his instinct screaming danger and urge him to get away from here as quickly as possible, but something is calling him in his mind, he heard incoherent whispers of many voices of hiss and growl in unknown language that chill his spine, some how he know the meaning of it, it urge him to open the sealed door. Unable to resist the call, no matter how much he tried, he walked...
+As the site keeper walk out of his sight, he suddenly feel a strong sense of dread coming from the sealed door, his instinct screaming of danger and urge him to get away from it as quickly as possible, but something is calling him in his mind, he heard incoherent whispers of many voices of hiss and growl in unknown language that chill his spine, some how he know the meaning of it, it urge him to open the sealed door. Unable to resist the call, no matter how much he tried, he walked...
 
 He touched the stasis shielded door, the entire room begin to emit a low hum followed by a crack of mechanical lock disengage and a sound of force field dissolve with following silent.
 
 The door opened, he walk into the long hallway lead to a large hall, illuminate with dimly lit and faulty light strips. The hallway looks much older and difference than of The Ancient's architect out side, which clearly this part doesn't made by The Ancient. There are carvings on the wall, detail some kind of story or ritual, most of the carvings feature the strange creature that was on the door, but many of it was damaged by some kind of claws marks and dirtied with what look like blood stain all over the place, on the wall, floor and ceiling.
 
-He arrived at the large hall, it painted red with blood and gore, the air smell of blood and rot, it littered with various bones and remains in varies condition, many of which are what appear to be The Ancient, some are animals native to Shrres and some are unknown lifeforms. At the back of the hall was a remain of a large beast... thing... in half decay state, it's size towering the ceiling of the hall, it was bond by chains to a large altar like machinery, with various tubes and wires hooked to the remain.
+He arrived at the large hall, it painted red with blood and gore, the air smell of blood and rot, it littered with various bones and remains in varies condition, many of which are what appear to be The Ancient, some are animals native to Shrres and some are unknown lifeforms. At the back of the hall was a remain of a large beast... thing... in half decay state, it's appearance similar to the sculpture and carvings of strange creature found on the door and hallways of this place, it's size towering the ceiling of the hall, it was bond by chains to a large altar like machinery, with various tubes and wires hooked to the remain.
 
-As he walk forward to it in entranced state, he saw it's head was like prehistoric Rra-krr skull, devoid of skin and meat other than the blood red eyes that seems to stare to his soul, with horns... no, broken pair of anthers on it's head and the matted remain of what was once gorgeous mane. It's skinny body is half rotten, looks as it was starving to death, but no, it still alive... somehow... as he can still hear it's beating heart as he walk closer.
+As he walk forward to it in entranced state, he saw it's head was like prehistoric Rra-krr skull, devoid of fur and meat other than the blood red eyes that seems to stare to his soul, with horns... no, broken pair of anthers on it's head and the matted remain of what was once gorgeous mane. It's skinny body is half rotten, looks as it was starved to death, but no, it still alive... somehow... as he can still hear it's beating heart as he walk closer.
+
+He stopped at front of the altar, the creature's head and it's blood red eyes moved to stare at him, exhale it's breath that filled with blood and decay smells at him. Then the whispers of many voices growl in unison, urge him to eat the large creature remain, starting with it's still beating, delicious heart.
+
+The sudden hunger filled him, his mouth drools in hunger at the large creature. No matter how much he resist, he watch him self moved without his control in horror, leaping on to the creature and use his claws dig in to it's chest, ripping it's heart out.
+
+The creature's warm rotten dark onyx blood soaked all over him, his hands held the large still beating heart of the creature to his mouth. He bite into the heart, the raw flesh tearing easily under his fangs, it have flavour unlike anything he have experienced before. The metallic taste of the rotten onyx blood mixed with the creature's still beating heart, bitter and sweet, the taste of life and death mixed with... something delicious.
+
+*---*
+
+(dream sequence)
+
+*---*
+
+
+
 
 
 **Legacies**
@@ -220,7 +242,7 @@ As he walk forward to it in entranced state, he saw it's head was like prehistor
 `Todo`
 
 
-**Moar bits of lore:**
+**Moar bits of lore**
 
 Basically, before the beginning of universe where my sona is born, there is a multiverse war between the alliance of highly advanced species (god-like level) and The Great Evil (a collective of pure evil multiverse invader species that have single propose, to destroy and torture every living things and convert things to more of them to destroy and torture more things).
 
@@ -232,7 +254,7 @@ When The Great Evil's army arrived to his universe, he was among those who was i
 
 Just after The Great Evil jailer remove the suppression bindings, before his body and mind was giving in to the corrupted eternal hunger, he use the last of his strength to traverse to alternate universe that The Great Evil have not invade yet, in hope to warn them of The Great Evil. He was succeed in send the warnings to all, but just a few moment later, he was fully fallen to the corruption and start consuming flesh, blood and soul of living beings (and anything, really) in that universe, until all of the universe is gone, leaving only the void and maybe few bit and pieces of former universe, then he traverse to consume another universe and then another and another...
 
-As the war going on, even with advance warning from Lord of The Forest and ample time to prepare, the Rra-krr and their allies are losing to The Great Evil in all of the multiverse. Many universes is now filled with cold and darkness as stars are extinguish, planets destroyed, all life and soul was either destroyed or corrupted into The Great Evil kind (and many universes get consumed by corrupted Lord of The Forest). The Alliance have decided to build the most destructive weapon of all, The Multiverse Eater, to sacrifice themself and destroy all of The Great Evil.
+As the war going on, even with advance warning from Lord of The Forest and ample time to prepare, the Rra-krr and their allies are losing to The Great Evil in all of the multiverse. Many universes is now filled with cold and darkness as stars are extinguish, planets destroyed, all life and soul was either destroyed or corrupted into The Great Evil kind (and countless universes get consumed by corrupted Lord of The Forest). The Alliance have decided to build the most destructive weapon of all, The Multiverse Eater, willing to sacrifice themself to destroy all of The Great Evil.
 
 As the The Multiverse Eater construction nearing complete, The Fanged God have found a way to somewhat reverse the corruption, it have a great cost and it was only temporary. If they succeeded in reversing the corruption of Lord of The Forest, they might survive after The Multiverse Eater weapon was activated with Lord of The Forest's unique dimension/universe traversal ability.
 
@@ -242,9 +264,9 @@ With The Fanged God sacrifice, they succeeded. Lord of The Forest's corruption w
 
 ...
 
-They activated The Multiverse Eater weapon after Lord of The Forest along with the countless souls of those selected on an artificial planet, a fully enclosed Dyson Sphere with a impossibly small and dense moon size star inside of it, travel to other universe unrelated to their own, and entire universes connected to their old universes is no more...
+They activated The Multiverse Eater weapon after Lord of The Forest along with countless souls of last survivors on an artificial planet, a fully enclosed Dyson Sphere with an impossibly small and dense moon size star inside of it, travel to other universe unrelated to their own, and entire universes connected to their old universe is no more... (Class Z-2 Annihilation)
 
-As they arrived in newly born universe, with power Lord of The Forest got from eating The Fanged God and countless souls on the artificial planet, he start to not so subtly manipulate the universe to guide it into create lifeforms from their former universe.
+As they arrived in a newly born universe, with power Lord of The Forest got from eating The Fanged God and the countless souls on the artificial planet, he start to not so subtly manipulate the universe to guide it into create lifeforms from their former universe.
 
 ...
 
