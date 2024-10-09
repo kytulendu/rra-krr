@@ -11,7 +11,7 @@ Rrowl
 
 **Name:** Rrowl-Telepath/Rrowl-Skarrowl
 
-**Aliases:** Rrowl (Roughly translate from Old Rra-krr to English as “vengeance/retribution”), Scrawny-Little-One (birth name), Second-Telepath-of-Skarrowl-Clan (profession name), Incarnation of The Fanged God, The Fanged One, Lord of the Forest/Lord of the Savannah, Soul Eater, The Hungry Cat
+**Aliases:** Rrowl (Roughly translate from Old Rra-krr to English as “vengeance/retribution”), Scrawny-Little-One (birth name), Second-Telepath-of-Skarrowl-Clan (profession name), Incarnation of The Fanged God, The Fanged One, Lord of the Forest/Lord of the Savannah, Lord of the Death, Soul Eater, The Hungry Cat
 
 **Specie:** Unknown, some kind of eldritch skullcat-demon shape-shifter thingy???, formerly a Rra-krr/Smilodon (as called by Human).
 
@@ -45,12 +45,22 @@ Rra-krr form
 
 Fanged God form (feral form)
 
+![Big Kitty](./resources/Lord_of_the_Forest_Fanged_God_Form_1280.png)
+
 - Black fur.
 - Black mane.
 - Red eyes, with slit pupils.
 - Curved horns (Kudu like horns).
 
+Drakor form (dragon form)
+
+Art inspired by Abraxas/Monster X, mixture of KOM/Millennium Ghidora and Rrowl trueform
+
+- todo
+
 Lord of the Forest form (true form)
+
+![Spooky Floof](./resources/Rrowl_Concept_1_wip_19_2000.png)
 
 - Black fur.
 - Long black mane.
@@ -59,6 +69,8 @@ Lord of the Forest form (true form)
 - Sika deer like anthers.
 - Have a pair of chin bone horns.
 - The back have spine spike.
+
+He have low, dark and evil voice like Mephisto from Diablo 4 in all form other than Rra-krr form.
 
 **Relative:**
 
@@ -119,8 +131,6 @@ The down side of this form is he can't always maintain this form as it cause him
 
 **Fanged God form or feral form**
 
-![Big Kitty](./resources/Lord_of_the_Forest_Fanged_God_Form_1280.png)
-
 This form is a much more family friendly version of his true form. He know of this form as a distant memory he received while he was in painful transformation from a Rra-krr into what he is now. In this form, he bear resemblance to a large black furred saber-toothed big-cat-like creature, with black mane, red eyes and slit pupils, lion like tail, a pair of horns and a pair of ears, that walk on four legs like Earth's big cats. This form is varies in size depending on his will, the usual size is about 220 cm (7.2 ft) measure from shoulder to feet.
 
 In this form, he have enhance strength, speed and endurance, able to do all telepath things without taking Nepeta-Leaves extract, even better, his telepathic ability is greatly improve, surpassed the most powerful telepathic being in explored space (and possibly beyond) and given him access to various powers he received from The Hidden Temple incident. Such as extra sensory that enable him to "see" the soul of any being, able to phase through matter or ability to teleport to anywhere he desired or traverse to/from other dimension/other universe. Although the abilities is a lots less powerful than when he was in true form.
@@ -128,8 +138,6 @@ In this form, he have enhance strength, speed and endurance, able to do all tele
 This form also "accidentally" look like those depicted in Rra-krr's art as a representation of The Fanged God, a Rra-krr's deity. And due to this, he rarely shape-shift into this form, as it might cause some chaos among the religious Rra-krr if being seen.
 
 **Lord of the Forest form or true form**
-
-![Spooky Floof](./resources/Rrowl_Concept_1_wip_19_2000.png)
 
 The last one is true form, which is what he was turned into in The Hidden Temple Incident. In this form, he appear as some kind of terrifying (for some) big cat monster thingy that looks like the unholy combination of flesh, fur and bones. The head was looks like a saber-tooth cat skull, red glowing eyes, a pair of sika deer like anthers and a pair of chin bone horns (the head is kinda looks like Charr's skull), long black fluffy mane and long barbed tongue. The body was covered with black "fur", with dark, menacing aura, emit from the body that appear to move in it's own depending on his mind. The back have spine spike. The tail is lion-like. With usual size standing in hunched pose about 325 cm to varies depending on circumstance. He can stood on 2 legs or on all four in this form.
 
@@ -283,7 +291,7 @@ Later in around 2018, I have decided to do a makeover for him to a not so generi
 - Like Felidae, their distance relative on Earth, the Rra-krr have about 3 or 4 times superior sense of smell than human, this further supplemented by the presence of vomeronasal organ in the roof of their mouth. The Rra-krr are partially nocturnal. They have excellent night vision as their eyes have Tapetum lucidum that reflect light back through the retina, which give their eyes a distinctive shine. As a result, their eyes is about 6-7 times more light sensitive than Human. The Rra-krr can see in visible light, near infrared (up to 800 nm) and UVA (315-400 nm) spectrum. Their eyes have more rod cells than cone cells, this result they have have good vision in low light environment but with a side effect of weird color vision (see as kind of desaturated version of image, hence why many of their colored stuff and art are so colorful for Human). Their eyes also have Nictitating membrane. Their ears can hear the sound as human do and up to ultrasonic range. The Rra-krr have 3 fingers with opposable thumb and their claws are also retractable. Their tongue are also covered with tiny barbs.
 - Unlike the Human, who use base-10 number system (numbers from 0-9), The Rra-krr use base-16 number system (numbers from 0-15).
 
-`Todo: Add Rra-krr's home world and other informations. high oxygen atmosphere, megafauna, ~1.1-1.2 times Earth gravity, dangerous wildlife, half of the land are forest`
+`Todo: Add Rra-krr's home world and other informations. high oxygen atmosphere, megafauna, ~1.1 times Earth gravity, dangerous wildlife, half of the land are forest`
 
 - The Ancient are very advanced species who have a galaxy wide empire. They mysteriously disappear around 300,000-100,000 years ago and leave their legacy across the galaxy, such as The Ancient's Knowledge Repository Puzzle that given to two of their up-lifted species (as know of to date), ruins of their civilization, many technology and artifact that still working to this date. Which I also ~~steal~~ borrow the idea from Star Gate... :P
 - The Slaver is a species with immerse psychic power that use their psychic ability to enslave lesser species, they use them to build their civilization as they see fit for worst of worst things against their will, even farm sentience species and use them as food source by mind control them to be willing to be eaten alive by The Slaver. They are kinda dump as they relied on their slave to do anything for them. Around 66 millions years ago they are at war with The Ancient, that result in galaxy wide conflict and many of potential lifeforms and advanced species went extinct in the process. In the end, they lose the war with The Ancient and went extinct. They are ~~inspired from~~ the Thrint from Larry Niven’s Known Space series.
