@@ -9,9 +9,9 @@ Rrowl
 
 **[Rrowl's true form, with all of the cognitohazard filtered out]**
 
-**Name:** Rrowl-Telepath/Rrowl-Skarrowl
+**Name:** Rrowl-Telepath/Rrowl-Zyvorr
 
-**Aliases:** Rrowl (Roughly translate from Old Rra-krr to English as “vengeance/retribution”), Scrawny-Little-One (birth name), Second-Telepath-of-Skarrowl-Clan (profession name), Incarnation of The Fanged God, The Fanged One, Lord of the Forest/Lord of the Savannah, Lord of the Death, Soul Eater, The Hungry Cat
+**Aliases:** Rrowl (Roughly translate from Old Rra-krr to English as “vengeance/retribution”), Scrawny-Little-One (birth name), Second-Telepath-of-Zyvorr-Clan (profession name), Incarnation of The Fanged God, The Fanged One, Lord of the Forest/Lord of the Savannah, Lord of the Death, Soul Eater, The Hungry Cat
 
 **Specie:** Unknown, some kind of eldritch skullcat-demon shape-shifter thingy???, formerly a Rra-krr/Smilodon (as called by Human).
 
@@ -21,11 +21,11 @@ Rrowl
 
 **Birthdate:** 14 of M'krrow 6671 (dec) or in Earth's date, 12 October 2326.
 
-**Birthplace:** Conqurer’s-Fang, one of battle ship of Zaar-Admiral (now known as Zaar-Skarrowl) small exploration party, orbiting newly discovered habitable planet similar to Rra-krr home world, which later named Shrres (mirror/reflection).
+**Birthplace:** Conqurer’s-Fang, one of battle ship of Zaar-Admiral (now known as Zaar-Zyvorr) small exploration party, orbiting newly discovered habitable planet similar to Rra-krr home world, which later named Shrres (mirror/reflection).
 
 **Residence:** Bloody-Claw (Prowling Hunter class warship) or Shrres’s capital fortress
 
-**Occupation:** Telepath of Skarrowl Clan
+**Occupation:** Telepath of Zyvorr Clan
 
 **Languages:** Rra-krr, Ancient, Drakor, Sol (English) and a dozen of other alien languages. (He can't speak perfect English due to his specie's mouth doesn't suitable for Earth's language. When he speak, he do have that weird accent like when you force a tiger to speak English for example.)
 
@@ -74,7 +74,7 @@ He have low, dark and evil voice like Mephisto from Diablo 4 in all form other t
 
 **Relative:**
 
-- Zarr-Skarrowl, foster sire
+- Zarr-Zyvorr, foster sire
 - Cinder-Tail, biological mother/mother
 - Lord of the Forest, biological sire (deceased?)
 - The Fanged God, biological grandsire (deceased)
@@ -96,7 +96,7 @@ He have low, dark and evil voice like Mephisto from Diablo 4 in all form other t
 - A Rra-krr plasma pistol.
 - Forest Lord's Spear, the mythical hunting spear of Lord of the Forest, recovered from The Hidden Temple of Shrres. Half of it's handle is missing, likely it house a power source, which rendered most of the spear abilities doesn't work as expected or much less powerful, atleast it can reduce it's size and weight to be usable in Rra-krr form tho.
 - He was usually wear minimal or no clothing, except on special occasion. His casual/hunting clothing consist of either a black or dark brown pants or usually, no pants, with two belts made from leather, one is utility belt that worn around his shoulder and another worn around his waist, waist belt is attached to his sword holder and scabbard at left side, his plasma pistol holsters attracted at right side, sometimes he is wearing Ceramite vest for extra protection against high powered projectile or energy weapons, just in-case.
-- He have his own space ship and a small crew of his own (although he isn’t the captain), the ship named Bloody-Claw, she was a very old Prowling Hunter class warship (comparable to human’s battle cruiser star ship class, but with a cloaking device), repaired, redecorate interior, retrofitted with many current technology and modified energy source from inferior fusion reactor to three redundant Zero-Point-Module, commissioned and gifted to him by the Patriarch and Zaar-Skarrowl. Although, it still have many outdated but upgraded systems. The ship have no heavy weapons system due to their weapon regulation law on private military space craft. (by “heavy weapon system” in Rra-krr's term is any single weapon system that powerful enough to destroy a continent on a planet in one shot).
+- He have his own space ship and a small crew of his own (although he isn’t the captain), the ship named Bloody-Claw, she was a very old Prowling Hunter class warship (comparable to human’s battle cruiser star ship class, but with a cloaking device), repaired, redecorate interior, retrofitted with many current technology and modified energy source from inferior fusion reactor to three redundant Zero-Point-Module, commissioned and gifted to him by the Patriarch and Zaar-Zyvorr. Although, it still have many outdated but upgraded systems. The ship have no heavy weapons system due to their weapon regulation law on private military space craft. (by “heavy weapon system” in Rra-krr's term is any single weapon system that powerful enough to destroy a continent on a planet in one shot).
 Due to upgraded and modified systems and the ship equipped with an Advanced Interface Chair (a brain to computer interface device, standard among Rra-krr space craft, use by telepath to pilot the ship in hyperspace), the Bloody-Claw can be pilot by 1 pilot by using the chair. Although the ship require at lest 2 pilot, with one telepath using the chair to aid navigation systems when travel in hyperspace for optimal operation.
 He sometimes use the ship as his den.
 
@@ -155,11 +155,11 @@ In 10 (dec) of M'krrow, year 6671 (dec), or Earth's date, 10 October 2326. A sma
 
 They have found Ancient’s lab in the ruins and found a pregnant female Rra-krr who dressed in Ancient’s outfit in stasis chamber, powered by a nearly depleted Ancient design Zero-Point-Module. Seeing the value of working stasis chamber and living Rra-krr that may live when The Ancient was still around, they moved the stasis chamber to Conqurer’s-Fang, Zaar-Admiral’s battle ship. They revived her and found that she is a prehistoric Rra-krr, who have only memory of her name, Cinder-Tail and memory of few minutes prior to enter the stasis chamber and have some trouble talking in old Rra-krr tongue.
 
-On the 12 (dec) of M'krrow or, 12 October, she given birth to a unique Rra-krr cub, she called him Scrawny-Little-One, since at birth he was tiny. While the small colony are settled on the planet, which they named it Shrres (mirror/reflection), for the likeness of Rra-krr home world. Cinder-Tail and Scrawny-Little-One are taken into Zaar-Admiral’s small clan as his mate and son. As they travel to Rra-krr home world for Zaar-Admiral to claim the rewards for his fleet for discovery of new unoccupied habitable planet and a working Ancient’s stasis chamber, he is honored by The Patriarch by given him a name Zaar-Skarrowl, with Skarrowl as his new clan name and appointed him to be The Patriarch of newly formed Shrres colony, this make his small clan become new addition of the dominant clans. They raised Scrawny-Little-One on Conqurer’s-Fang until they come back to Shrres, then, they moved to the newly construct fortress on the planet.
+On the 12 (dec) of M'krrow or, 12 October, she given birth to a unique Rra-krr cub, she called him Scrawny-Little-One, since at birth he was tiny. While the small colony are settled on the planet, which they named it Shrres (mirror/reflection), for the likeness of Rra-krr home world. Cinder-Tail and Scrawny-Little-One are taken into Zaar-Admiral’s small clan as his mate and son. As they travel to Rra-krr home world for Zaar-Admiral to claim the rewards for his fleet for discovery of new unoccupied habitable planet and a working Ancient’s stasis chamber, he is honored by The Patriarch by given him a name Zaar-Zyvorr, with Zyvorr as his new clan name and appointed him to be The Patriarch of newly formed Shrres colony, this make his small clan become new addition of the dominant clans. They raised Scrawny-Little-One on Conqurer’s-Fang until they come back to Shrres, then, they moved to the newly construct fortress on the planet.
 
-Although, tiny at birth, he was growing fast, a bit faster than normal Rra-krr. When he is 1 year old, he was given educations with other cubs on the colony. He have few problems with others since he is kind of feral to other people who he doesn’t know, but it soon crease once he know other cubs. At about age of 3, people around him starting to notice that he have telepathic abilities. This not surprised people around him, since he have blue eyes and all Rra-krr telepath have blue eyes but not all blue eyes Rra-krr are telepath. Zaar-Skarrowl have Amurrak, the former Conqurer’s-Fang telepath, now Telepath of Skarrowl Clan to give him extra education and training to sharpen his telepathic skills.
+Although, tiny at birth, he was growing fast, a bit faster than normal Rra-krr. When he is 1 year old, he was given educations with other cubs on the colony. He have few problems with others since he is kind of feral to other people who he doesn’t know, but it soon crease once he know other cubs. At about age of 3, people around him starting to notice that he have telepathic abilities. This not surprised people around him, since he have blue eyes and all Rra-krr telepath have blue eyes but not all blue eyes Rra-krr are telepath. Zaar-Zyvorr have Amurrak, the former Conqurer’s-Fang telepath, now Telepath of Zyvorr Clan to give him extra education and training to sharpen his telepathic skills.
 
-With Zaar-Skarrowl and Cinder-Tail permission, the Rra-krr scientists study Cinder-Tail for a short period of time and Scrawny-Little-One until he become an adult. (a Rra-krr become an adult at about age of 13 in earth years. and yes, their mature rate are way faster than Human) And some times, to do cub-sitting for Zaar-Skarrowl and Cinder-Tail when they are... busy.
+With Zaar-Zyvorr and Cinder-Tail permission, the Rra-krr scientists study Cinder-Tail for a short period of time and Scrawny-Little-One until he become an adult. (a Rra-krr become an adult at about age of 13 in earth years. and yes, their mature rate are way faster than Human) And some times, to do cub-sitting for Zaar-Zyvorr and Cinder-Tail when they are... busy.
 
 Later, the scientists have become one of his friends. Their discussion with him when he asked them about things with curiosity lead him to interested in science, technology, The Ancient, ancient Rra-krr culture, various aliens culture, their lore and the wonder of space. He thought that one day, he would become a great explorer like his sire.
 
@@ -185,7 +185,7 @@ The Slaver have send a very powerful psychic burst to seek if there are any Slav
 
 Few days after, The Rra-krr contact The Human for negotiation to end the war as there are threat of The Slaver present in the galaxy. The negotiation was success, as they come with the term that both side agree on.
 
-Unable to nuke The Slaver with tactical nuclear missiles as it would render the colony inhabitable for years and kill many of both mind controlled slave and the Human resistant that was able to resist The Slaver mind control, who are still in the colony. The combined force of The Rra-krr telepaths and warriors, telepaths and troops of their Alliance-Of-The-Four-Great-Race that can arrive in time, few mercenaries and Human military units, including Zaar-Skarrowl’s elite combatant and his telepath son, Scrawny-Little-One, now known as Second-Telepath-of-Skarrowl-Clan, they assault The Slaver stronghold, with the nuclear warhead as their last resort.
+Unable to nuke The Slaver with tactical nuclear missiles as it would render the colony inhabitable for years and kill many of both mind controlled slave and the Human resistant that was able to resist The Slaver mind control, who are still in the colony. The combined force of The Rra-krr telepaths and warriors, telepaths and troops of their Alliance-Of-The-Four-Great-Race that can arrive in time, few mercenaries and Human military units, including Zaar-Zyvorr’s elite combatant and his telepath son, Scrawny-Little-One, now known as Second-Telepath-of-Zyvorr-Clan, they assault The Slaver stronghold, with the nuclear warhead as their last resort.
 
 The fight was very difficult as it not only the physical fight, but physiological fight as well. It took the combined force 4 weeks to kill The Slaver, just before The Slaver activate the psychic amplifier to control the mind of every sentience being in 100 light years radius.
 
@@ -237,7 +237,7 @@ The creature's warm rotten dark onyx blood soaked all over him, his hands held t
 
 *---*
 
-(dream sequence)
+He jerk awake in the dark place, laying on floor made of dark onyx liquid. 
 
 *---*
 
