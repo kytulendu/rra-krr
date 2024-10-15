@@ -45,7 +45,7 @@ Rra-krr form
 
 Fanged God form (feral form)
 
-![Big Kitty](./resources/Lord_of_the_Forest_Fanged_God_Form_1280.png)
+![Big Kitty](./resources/Lord_of_the_Forest_Fanged_God_Form_flat_color_2000.png)
 
 - Black fur.
 - Black mane.
